@@ -16,13 +16,13 @@ My main research interests lie in macroeconomics and family economics.
 [Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
 
 ### Published & Forthcoming Papers
-- General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes
+- [General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes](https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr)
 <br>  ***Macroeconomic Dynamics***, forthcoming
-<br>  [Publisher](http://dx.doi.org/10.1017/S1365100519000087) / [Paper (pdf)](https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr)
+<br>  [Publisher](http://dx.doi.org/10.1017/S1365100519000087)
 
-- On the Distribution of Wealth and Employment
+- [On the Distribution of Wealth and Employment](https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht) 
 <br>  ***Review of Economic Dynamics***, October 2018, 30, 86-105
-<br>  [Publisher](https://www.sciencedirect.com/science/article/pii/S1094202518301613) / [Paper (pdf)](https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht) 
+<br>  [Publisher](https://www.sciencedirect.com/science/article/pii/S1094202518301613)
 
 ### Working Papers
 - Nonlinear Occupations and Female Labor Supply Over Time (with Youngsoo Jang)
