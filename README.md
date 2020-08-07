@@ -4,6 +4,8 @@ I am an Assistant Professor in the Department of Economics at the [University of
 
 My main research interests lie in macroeconomics and family economics.
 
+[**Curriculum Vitae**](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
+
 **Mailing address**
 <br>University of Mannheim
 <br>Department of Economics
@@ -11,9 +13,6 @@ My main research interests lie in macroeconomics and family economics.
 <br>68165 Mannheim, Germany
 <br>
 <br>**E-mail**: minchul.yum at uni-mannheim.de
-
-
-[Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
 
 ### Published & Forthcoming Papers
 - ["General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"](https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr)
