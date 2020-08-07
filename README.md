@@ -4,7 +4,7 @@ I am an Assistant Professor in the Department of Economics at the [University of
 
 My main research interests lie in macroeconomics and family economics.
 
-<font color="red">### [Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)</font> 
+### [Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
 
 
 ### Published & Forthcoming Papers
