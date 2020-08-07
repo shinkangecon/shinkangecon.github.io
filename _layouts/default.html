@@ -14,7 +14,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -22,13 +22,13 @@
         
         <div style="display:inline;float:center">
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <p>Mailing address:
+          <p><b>Mailing address</b>:
           <br>University of Mannheim
           <br>Department of Economics
           <br>L7, 3-5 P09
           <br>68165 Mannheim, Germany
           <br>
-          <br>E-mail: minchul.yum at uni-mannheim.de</p>
+          <br><b>E-mail</b>: minchul.yum at uni-mannheim.de</p>
         
       </header>
       <section>
