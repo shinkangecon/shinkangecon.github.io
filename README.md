@@ -39,8 +39,6 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Selected Work in Progress
 - Implications of School Closures for Inequality and Intergenerational Mobility (with Youngsoo Jang)
-
 - Intergenerational Mobility and Social Welfare (with Hitoshi Tsujiyama)
-
 - Indivisible Labor and the Optimal Progressivity of Tax and Transfers (with Dmitry Matveev)
 
