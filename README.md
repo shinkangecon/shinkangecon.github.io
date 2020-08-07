@@ -25,10 +25,9 @@ My main research interests lie in macroeconomics and family economics.
 <br>  [Publisher](https://www.sciencedirect.com/science/article/pii/S1094202518301613)
 
 ### Working Papers
-- ["Nonlinear Occupations and Female Labor Supply Over Time"] (https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing) 
-<br> (with Youngsoo Jang)
+- ["Nonlinear Occupations and Female Labor Supply Over Time"] (https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing) (with Youngsoo Jang) 
 
-- Status Externalities and Low Birth Rates in Korea (with Seongeun Kim and Michele Tertilt)
+- ["Status Externalities and Low Birth Rates in Korea"] (with Seongeun Kim and Michele Tertilt)
 <br> *Under revision; draft available soon*
 
 - Heterogeneity, Transfer Progressivity and Business Cycles (with Youngsoo Jang and Takeki Sunakawa)
