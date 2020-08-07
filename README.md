@@ -17,6 +17,7 @@ I am an Assistant Professor in the Department of Economics at the [University of
 - General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes
 <br>  ***Macroeconomic Dynamics***, forthcoming
 <br>  [Publisher](http://dx.doi.org/10.1017/S1365100519000087) / [Paper(PDF)](https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr) 
+<br>
 - On the Distribution of Wealth and Employment
 <br>  ***Review of Economic Dynamics***, October 2018, 30, 86-105
 <br>  [Publisher](https://www.sciencedirect.com/science/article/pii/S1094202518301613) / [Paper(PDF)](https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht) 
@@ -24,12 +25,16 @@ I am an Assistant Professor in the Department of Economics at the [University of
 ### Working Papers
 - Nonlinear Occupations and Female Labor Supply Over Time 
 <br>  (with Youngsoo Jang)
+<br>
 - Status Externalities and Low Birth Rates in Korea
 <br>  (with Seongeun Kim and Michele Tertilt)
+<br>
 - Heterogeneity, Transfer Progressivity and Business Cycles
 <br>  (with Youngsoo Jang and Takeki Sunakawa)
+<br>
 - Parental Time Investment and Intergenerational Mobility
-
+<br>
 ### Selected Work in Progress
 - Indivisible Labor and the Optimal Progressivity of Tax and Transfers
 <br>   (with Dmitry Matveev)
+<br>
