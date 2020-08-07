@@ -23,19 +23,22 @@ I am an Assistant Professor in the Department of Economics at the [University of
 <br>  [Publisher](https://www.sciencedirect.com/science/article/pii/S1094202518301613) / [Paper (pdf)](https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht) 
 
 ### Working Papers
-- Nonlinear Occupations and Female Labor Supply Over Time 
-<br>  (with Youngsoo Jang)
+- Nonlinear Occupations and Female Labor Supply Over Time (with Youngsoo Jang)
 <br> [Paper (pdf)](https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing) 
-- Status Externalities and Low Birth Rates in Korea
-<br>  (with Seongeun Kim and Michele Tertilt)
+
+- Status Externalities and Low Birth Rates in Korea (with Seongeun Kim and Michele Tertilt)
 <br> *Under revision; draft available soon*
-- Heterogeneity, Transfer Progressivity and Business Cycles
-<br>  (with Youngsoo Jang and Takeki Sunakawa)
+
+- Heterogeneity, Transfer Progressivity and Business Cycles (with Youngsoo Jang and Takeki Sunakawa)
 <br> [Paper (pdf)](https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl) 
+
 - Parental Time Investment and Intergenerational Mobility
 <br> [Paper (pdf)](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7) 
 
 ### Selected Work in Progress
-- Indivisible Labor and the Optimal Progressivity of Tax and Transfers
-<br>   (with Dmitry Matveev)
-<br>
+- Implications of School Closures for Inequality and Intergenerational Mobility (with Youngsoo Jang)
+
+- Intergenerational Mobility and Social Welfare (with Hitoshi Tsujiyama)
+
+- Indivisible Labor and the Optimal Progressivity of Tax and Transfers (with Dmitry Matveev)
+
