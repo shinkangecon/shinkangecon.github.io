@@ -1,6 +1,6 @@
 title: Minchul Yum
-
-github:
-  is_project_page: false
-  
+title: Minimal theme
+logo: /web_mannheim_2017.jpg
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
