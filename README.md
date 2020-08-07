@@ -4,7 +4,7 @@ I am an Assistant Professor in the Department of Economics at the [University of
 
 My main research interests lie in macroeconomics and family economics.
 
-**[Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)**
+### [Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
 
 ### Mailing address
 University of Mannheim
