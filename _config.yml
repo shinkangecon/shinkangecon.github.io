@@ -1,9 +1,7 @@
 title: Minchul Yum
 github:
   is_project_page: false
+  
 avatar: https://minchulyum.github.io/web_mannheim_2017.jpg
 
-author :  
-  email : minchul.yum@uni-mannheim.de
-google_analytics: 
 theme: jekyll-theme-dinky
