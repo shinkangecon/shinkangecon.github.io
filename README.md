@@ -6,8 +6,8 @@ My main research interests lie in macroeconomics and family economics.
 
 **[Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)**
 
-**Mailing address**
-<br>University of Mannheim
+### Mailing address
+University of Mannheim
 <br>Department of Economics
 <br>L7, 3-5 P09
 <br>68165 Mannheim, Germany
