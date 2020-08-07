@@ -8,8 +8,8 @@ I am an Assistant Professor in the Department of Economics at the [University of
 <br>L7, 3-5 P09
 <br>68165 Mannheim, Germany
 <br>
-<br>**E-mail**
-<br>minchul.yum at uni-mannheim.de
+<br>**E-mail**: minchul.yum at uni-mannheim.de
+
 
 [Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
 
