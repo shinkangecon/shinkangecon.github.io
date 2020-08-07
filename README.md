@@ -30,14 +30,12 @@ My main research interests lie in macroeconomics and family economics.
 - ["Status Externalities and Low Birth Rates in Korea"](https://) (with Seongeun Kim and Michele Tertilt)
 <br> *Under revision; draft available soon*
 
-- Heterogeneity, Transfer Progressivity and Business Cycles (with Youngsoo Jang and Takeki Sunakawa)
-<br> [Paper (pdf)](https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl) 
+- ["Heterogeneity, Transfer Progressivity and Business Cycles"](https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl)  (with Youngsoo Jang and Takeki Sunakawa)
 
-- Parental Time Investment and Intergenerational Mobility
-<br> [Paper (pdf)](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7) 
+- ["Parental Time Investment and Intergenerational Mobility"](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7) 
 
 ### Selected Work in Progress
-- Implications of School Closures for Inequality and Intergenerational Mobility (with Youngsoo Jang)
+- </div><div class="text-red mb-2">Implications of School Closures for Inequality and Intergenerational Mobility</div> (with Youngsoo Jang)
 - Intergenerational Mobility and Social Welfare (with Hitoshi Tsujiyama)
 - Indivisible Labor and the Optimal Progressivity of Tax and Transfers (with Dmitry Matveev)
 
