@@ -20,7 +20,7 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Working Papers
 - ["Nonlinear Occupations and Female Labor Supply Over Time"](https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing)
-<br>  (with Youngsoo Jang) 
+<br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)) 
 
 - ["Status Externalities and Low Birth Rates in Korea"](https://) 
 <br>  (with Seongeun Kim and Michele Tertilt)
@@ -32,12 +32,12 @@ My main research interests lie in macroeconomics and family economics.
 - ["Parental Time Investment and Intergenerational Mobility"](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7) 
 
 ### Selected Work in Progress
-- "Implications of School Closures for Inequality and Intergenerational Mobility" 
+- ["Implications of School Closures for Inequality and Intergenerational Mobility"] 
 <br>  (with Youngsoo Jang)
 
-- "Intergenerational Mobility and Social Welfare" 
+- ["Intergenerational Mobility and Social Welfare"] 
 <br>  (with Hitoshi Tsujiyama)
 
-- "Indivisible Labor and the Optimal Progressivity of Tax and Transfers" 
+- ["Indivisible Labor and the Optimal Progressivity of Tax and Transfers"] 
 <br>  (with Dmitry Matveev)
 
