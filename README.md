@@ -14,24 +14,23 @@ My main research interests lie in macroeconomics and family economics.
 <br>  ***Macroeconomic Dynamics***, forthcoming
 <br>  &#x1F539; <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper</a> 
 
-- ["On the Distribution of Wealth and Employment"](https://www.sciencedirect.com/science/article/pii/S1094202518301613) 
+- <a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">"On the Distribution of Wealth and Employment"</a> 
 <br>  ***Review of Economic Dynamics***, October 2018, 30, 86-105 
-<br>  <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper</a> &#x1F539; 
+<br>   &#x1F539; <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper</a>
 
 
 ### Working Papers:
-- ["Nonlinear Occupations and Female Labor Supply Over Time"](https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing)
+- <a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">"Nonlinear Occupations and Female Labor Supply Over Time"</a>
 <br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)) 
 
-- ["Status Externalities and Low Birth Rates in Korea"](https://) 
+- <a href="https://" target="_blank">"Status Externalities and Low Birth Rates in Korea"(https://)</a> 
 <br>  (with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
 <br> *Under revision; draft available soon*
 
-- ["Heterogeneity, Transfer Progressivity and Business Cycles"](https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl) 
+- <a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank">"Heterogeneity, Transfer Progressivity and Business Cycles"</a>  
 <br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
 
-- ["Parental Time Investment and Intergenerational Mobility"](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7) 
-
+- <a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank">"Parental Time Investment and Intergenerational Mobility"</a>
 <br>
 
 ### Selected Work in Progress:
