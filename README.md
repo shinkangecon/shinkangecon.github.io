@@ -18,6 +18,8 @@ My main research interests lie in macroeconomics and family economics.
 <br>  ***Review of Economic Dynamics***, October 2018, 30, 86-105
 <br>  [Link to Publisher](https://www.sciencedirect.com/science/article/pii/S1094202518301613)
 
+<br>
+
 ### Working Papers:
 - ["Nonlinear Occupations and Female Labor Supply Over Time"](https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing)
 <br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)) 
@@ -30,6 +32,8 @@ My main research interests lie in macroeconomics and family economics.
 <br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
 
 - ["Parental Time Investment and Intergenerational Mobility"](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7) 
+
+<br>
 
 ### Selected Work in Progress:
 - "Implications of School Closures for Inequality and Intergenerational Mobility"
