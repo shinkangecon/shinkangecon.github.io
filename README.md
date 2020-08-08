@@ -4,10 +4,11 @@ I am an Assistant Professor in the Department of Economics at the [University of
 
 My main research interests lie in macroeconomics and family economics.
 
-
-### [Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
 <br>
-
+```diff
+- ### [Curriculum Vitae](https://drive.google.com/open?id=1V89PqGcu1u-_4Zy0TVzXnegBO8EEkdlK)
+```
+<br>
 
 ### Published & Forthcoming Papers
 - ["General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"](https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr)
