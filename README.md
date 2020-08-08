@@ -23,7 +23,7 @@ My main research interests lie in macroeconomics and family economics.
 - <a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">"Nonlinear Occupations and Female Labor Supply Over Time"</a>
 <br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)) 
 
-- <a href="https://" target="_blank">"Status Externalities and Low Birth Rates in Korea"(https://)</a> 
+- <a href="https://" target="_blank">"Status Externalities and Low Birth Rates in Korea"</a> 
 <br>  (with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
 <br> *Under revision; draft available soon*
 
