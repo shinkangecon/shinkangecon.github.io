@@ -32,12 +32,12 @@ My main research interests lie in macroeconomics and family economics.
 - ["Parental Time Investment and Intergenerational Mobility"](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7) 
 
 ### Selected Work in Progress
-- ["Implications of School Closures for Inequality and Intergenerational Mobility"] 
+- ["Implications of School Closures for Inequality and Intergenerational Mobility"](https://)  
 <br>  (with Youngsoo Jang)
 
-- ["Intergenerational Mobility and Social Welfare"] 
+- ["Intergenerational Mobility and Social Welfare"](https://)  
 <br>  (with Hitoshi Tsujiyama)
 
-- ["Indivisible Labor and the Optimal Progressivity of Tax and Transfers"] 
+- ["Indivisible Labor and the Optimal Progressivity of Tax and Transfers"](https://)  
 <br>  (with Dmitry Matveev)
 
