@@ -26,9 +26,7 @@ My main research interests lie in macroeconomics and family economics.
   <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper Version</a> &#x1F4D8;
   
   </details>
-  
-  <br>
-   
+  <br>   
  <details>
   <summary markdown="span">"On the Distribution of Wealth and Employment"    
 
@@ -41,7 +39,7 @@ My main research interests lie in macroeconomics and family economics.
   <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper Version</a> &#x1F4D8;
   
 </details>
-  
+<br>  
   
 ----
 
@@ -57,9 +55,9 @@ My main research interests lie in macroeconomics and family economics.
   <a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">Working Paper</a> &#x1F4D8;
   
  </details>
-    
-- <a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">"Nonlinear Occupations and Female Labor Supply Over Time"</a>
-<br>   
+ <br>
+ 
+
 
 - <a href="https://" target="_blank">"Status Externalities and Low Birth Rates in Korea"</a> 
 <br>  (with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
