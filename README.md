@@ -26,7 +26,7 @@ My main research interests lie in macroeconomics and family economics.
   </details>
   <br> 
  <details>
-  <summary markdown="span">"On the Distribution of Wealth and Employment," ***Review of Economic Dynamics***, October 2018, 30, 86-105</summary>
+  <summary markdown="span">"On the Distribution of Wealth and Employment" <b><i>Review of Economic Dynamics</b></i>, October 2018, 30, 86-105</summary>
   
   | **Abstract**          |
   |:---------------------------|
