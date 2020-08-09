@@ -32,7 +32,7 @@ My main research interests lie in macroeconomics and family economics.
   ***Review of Economic Dynamics***, October 2018, 30, 86-105</summary>
   
   
-  <div class="panel panel-info">
+  <div class="panel panel-warning">
   **Abstract**
   {: .panel-heading}
 <div class="panel-body">
