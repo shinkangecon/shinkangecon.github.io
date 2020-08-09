@@ -102,12 +102,16 @@ My main research interests lie in macroeconomics and family economics.
   
  </details>
 <br>
-- "Implications of School Closures for Inequality and Intergenerational Mobility"
-<br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
-
-- "Intergenerational Mobility and Social Welfare"
-<br>  (with [Hitoshi Tsujiyama](https://sites.google.com/site/hitoshitsujiyama/))
-
-- "Indivisible Labor and the Optimal Progressivity of Tax and Transfers"
-<br>  (with [Dmitry Matveev](https://www.sites.google.com/site/dimitrymatveev/))
-
+<details>
+  <summary markdown="span">"Intergenerational Mobility and Social Welfare"
+  
+  (with [Hitoshi Tsujiyama](https://sites.google.com/site/hitoshitsujiyama/))</summary>
+  
+ </details>
+ <br>
+ <details>
+  <summary markdown="span">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"
+  
+  (with [Dmitry Matveev](https://www.sites.google.com/site/dimitrymatveev/))</summary>
+  
+ </details>
