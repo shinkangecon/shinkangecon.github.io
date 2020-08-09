@@ -13,13 +13,15 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Published & Forthcoming Papers:
 <details>
-  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"    
+  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"  
 
   ***Macroeconomic Dynamics***, forthcoming </summary>   
-  **Abstract**: A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model.
-  [Publisher](http://dx.doi.org/10.1017/S1365100519000087) &#x1F4D7; 
-  [Working Paper Version](https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr) &#x1F4D8;  
   
+  **Abstract**: A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model.
+  
+  <a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">Publisher</a> ![&#x1F4D7](https://via.placeholder.com/15/f03c15/000000?text=+); 
+  <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper Version</a> ![&#x1F4D8](https://via.placeholder.com/15/f03c15/000000?text=+);  
+    
 </details>
 
 
@@ -30,8 +32,8 @@ My main research interests lie in macroeconomics and family economics.
   
   **Abstract**: In the United States, the employment rate is nearly flat across wealth quintiles with the exception of the first quintile. Correlations between wealth and employment are close to zero or moderately positive. However, incomplete markets models with a standard utility function counterfactually generate a strongly negative relationship between wealth and employment. Using a fairly standard incomplete markets model calibrated to match the distribution of wealth, I find that government transfers and capital income taxation increase the (non-targeted) correlations between wealth and employment substantially, bringing the model closer to the data. As the model's fit with the distribution of wealth and employment improves, I find that the precautionary motive of labor supply is mitigated, thereby raising aggregate labor supply elasticities substantially.
   
-  <a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">Publisher</a> &#x1F4D7; 
-  <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper</a> &#x1F4D8;  
+  <a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">Publisher</a> ![&#x1F4D7](https://via.placeholder.com/15/f03c15/000000?text=+); 
+  <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper</a> ![&#x1F4D8](https://via.placeholder.com/15/f03c15/000000?text=+);
 
 </details>
 
