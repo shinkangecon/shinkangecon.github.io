@@ -27,8 +27,7 @@ My main research interests lie in macroeconomics and family economics.
   
   </details>
   
-  </br>
-  
+   
  <details>
   <summary markdown="span">"On the Distribution of Wealth and Employment"    
 
