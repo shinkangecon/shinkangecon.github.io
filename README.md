@@ -41,11 +41,22 @@ My main research interests lie in macroeconomics and family economics.
   
 </details>
   
+  
 ----
 
 ### Working Papers:
+<details>
+  <summary markdown="span">"Nonlinear Occupations and Female Labor Supply Over Time"
+    
+  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))</summary>
+  
+  
+  **Abstract**: High hours worked and higher returns to longer hours worked are common in many occupations, namely nonlinear occupations (Goldin 2014). Over the last four decades, both the share and relative wage premium of nonlinear occupations have been rising. Females have been facing rising experience premiums especially in nonlinear occupations. To quantitatively explore how these changes affected female labor supply over time, we build a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both extensive and intensive margins. A decomposition analysis finds that the rising returns to experience, especially in nonlinear occupations, and technical change biased towards nonlinear occupations are important to explain the intensive margin of female labor supply that keeps rising even in the recent period during which female employment stagnates. Finally, a counterfactual experiment suggests that if the nonlinearities were to be gradually vanishing, female employment could have been higher at the expense of significantly lower intensive margin labor supply.
+  
+  <a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">Working Paper</a> &#x1F4D8;
+    
 - <a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">"Nonlinear Occupations and Female Labor Supply Over Time"</a>
-<br>  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)) 
+<br>   
 
 - <a href="https://" target="_blank">"Status Externalities and Low Birth Rates in Korea"</a> 
 <br>  (with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
