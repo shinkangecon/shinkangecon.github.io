@@ -13,7 +13,9 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Published & Forthcoming Papers:
 <details>
-  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</summary>
+  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"    
+
+  ***Macroeconomic Dynamics***, forthcoming </summary>
   
   **Abstract**: A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model.
   
@@ -23,7 +25,7 @@ My main research interests lie in macroeconomics and family economics.
   
 </details>
 
-***Macroeconomic Dynamics***, forthcoming
+
 
 - <a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">"On the Distribution of Wealth and Employment"</a> 
 <br>  ***Review of Economic Dynamics***, October 2018, 30, 86-105 
