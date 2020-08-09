@@ -9,6 +9,8 @@ My main research interests lie in macroeconomics and family economics.
 
 <br>
 
+----
+
 ### Published & Forthcoming Papers:
 - <a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</a>
 <br>  ***Macroeconomic Dynamics***, forthcoming
@@ -18,6 +20,7 @@ My main research interests lie in macroeconomics and family economics.
 <br>  ***Review of Economic Dynamics***, October 2018, 30, 86-105 
 <br>   &#x1F539; <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper</a>
 
+----
 
 ### Working Papers:
 - <a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">"Nonlinear Occupations and Female Labor Supply Over Time"</a>
@@ -32,6 +35,8 @@ My main research interests lie in macroeconomics and family economics.
 
 - <a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank">"Parental Time Investment and Intergenerational Mobility"</a>
 <br>
+
+----
 
 ### Selected Work in Progress:
 - "Implications of School Closures for Inequality and Intergenerational Mobility"
