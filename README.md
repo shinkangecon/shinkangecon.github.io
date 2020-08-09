@@ -26,7 +26,7 @@ My main research interests lie in macroeconomics and family economics.
   <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper Version</a> &#x1F4D8;
   
   </details>
-  <br>   
+       
  <details>
   <summary markdown="span">"On the Distribution of Wealth and Employment"    
 
