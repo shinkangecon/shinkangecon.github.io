@@ -15,7 +15,8 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Published & Forthcoming Papers:
 <details>
-  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes," ***Macroeconomic Dynamics***, forthcoming</summary>
+  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"
+    ***Macroeconomic Dynamics***, forthcoming</summary>
   
   | **Abstract**          |
   |:---------------------------|
