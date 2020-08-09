@@ -13,20 +13,20 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Published & Forthcoming Papers:
 <details>
-  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"  
-
-  ***Macroeconomic Dynamics***, forthcoming</summary>
-  
-  **Abstract**
-  
-  A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model.
-  
-  <a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">Publisher</a> &#x1F4D7; 
-  
-  <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper Version</a> &#x1F4D8;
-  
+  <summary markdown="span">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"
     
-</details>
+    ***Macroeconomic Dynamics***, forthcoming</summary>  
+    
+    **Abstract**
+    
+    A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model.
+    
+    <a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">Publisher</a> &#x1F4D7; 
+    
+    <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper Version</a> &#x1F4D8;
+    
+    </details>
+    
 
 <br>
 
