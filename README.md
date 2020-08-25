@@ -102,7 +102,7 @@ My main research interests lie in macroeconomics and family economics.
  </details>
 <br>
 <details>
-  <summary markdown="span">"Intergenerational Mobility and Social Welfare"
+  <summary markdown="span">"Intergenerational Mobility, Social Welfare and Optimal Policies"
   
   (with [Hitoshi Tsujiyama](https://sites.google.com/site/hitoshitsujiyama/))</summary>
   
