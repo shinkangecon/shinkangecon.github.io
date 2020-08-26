@@ -62,7 +62,7 @@ My main research interests lie in macroeconomics and family economics.
 
  **"Status Externalities and Low Birth Rates in Korea"**
  <br>(with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
- <br>*Under revision; draft available soon*
+ <br>*Under revision; new draft available soon*
  <br> 
  
  **"Heterogeneity, Transfer Progressivity and Business Cycles"**
