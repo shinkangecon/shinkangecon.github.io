@@ -11,7 +11,6 @@ My main research interests lie in macroeconomics and family economics.
 
 <br>
 
-----
 
 ### Published & Forthcoming Papers:
 
@@ -26,7 +25,7 @@ My main research interests lie in macroeconomics and family economics.
   
 </details><a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">Publisher</a> &#x1F4D7;
 
-<br>
+----
   
   ["On the Distribution of Wealth and Employment"](https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht)
   <br>***Review of Economic Dynamics***, October 2018, 30, 86-105
@@ -54,13 +53,13 @@ My main research interests lie in macroeconomics and family economics.
   
   </details>  
    
-<br>
+----
 
  ["Status Externalities and Low Birth Rates in Korea"](https://)
  <br>(with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
  <br>*Under revision; new draft available soon*
  
-<br>
+----
  
  ["Heterogeneity, Transfer Progressivity and Business Cycles"](https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl)
  <br>(with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
@@ -73,7 +72,7 @@ My main research interests lie in macroeconomics and family economics.
   
  </details>  
  
-<br>
+----
  
  ["Parental Time Investment and Intergenerational Mobility"](https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7)
  <details>    
