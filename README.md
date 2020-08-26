@@ -27,7 +27,8 @@ My main research interests lie in macroeconomics and family economics.
   | A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model. |
   
 </details>
-  <br>
+  
+  
   **"On the Distribution of Wealth and Employment"**
   <br><font color="royalblue"><i>Review of Economic Dynamics</i></font>, October 2018, 30, 86-105
   <br><a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">Publisher</a> &#x1F4D7; / <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper Version</a> &#x1F4D8;
@@ -45,6 +46,8 @@ My main research interests lie in macroeconomics and family economics.
 ----
 
 ### Working Papers:
+
+
   **"Nonlinear Occupations and Female Labor Supply Over Time"**
   <br>(with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
   <br><a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">Working Paper</a> &#x1F4D8;
@@ -56,12 +59,12 @@ My main research interests lie in macroeconomics and family economics.
   | High hours worked and higher returns to longer hours worked are common in many occupations, namely nonlinear occupations (Goldin 2014). Over the last four decades, both the share and relative wage premium of nonlinear occupations have been rising. Females have been facing rising experience premiums especially in nonlinear occupations. To quantitatively explore how these changes affected female labor supply over time, we build a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both extensive and intensive margins. A decomposition analysis finds that the rising returns to experience, especially in nonlinear occupations, and technical change biased towards nonlinear occupations are important to explain the intensive margin of female labor supply that keeps rising even in the recent period during which female employment stagnates. Finally, a counterfactual experiment suggests that if the nonlinearities were to be gradually vanishing, female employment could have been higher at the expense of significantly lower intensive margin labor supply. |
 
 </details>
-<br>
+
 
  **"Status Externalities and Low Birth Rates in Korea"**
  <br>(with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
  <br>*Under revision; new draft available soon*
- <br> 
+ 
  
  **"Heterogeneity, Transfer Progressivity and Business Cycles"**
  <br>(with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
@@ -75,9 +78,8 @@ My main research interests lie in macroeconomics and family economics.
   | This paper studies how transfer progressivity influences aggregate fluctuations when interacted with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how transfer progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks and show that the model delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Counterfactual exercises show that redistributive policies have very different implications for aggregate fluctuations, depending on whether tax progressivity or transfer progressivity is used. We provide empirical evidence on the heterogeneity of employment responses across the wage distribution, which supports the key model mechanism. |
   
  </details>
-<br>
-
-  **"Parental Time Investment and Intergenerational Mobility"**
+ 
+ **"Parental Time Investment and Intergenerational Mobility"**
   <br><a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank">Working Paper</a> &#x1F4D8;
   <br>
  <details>    
