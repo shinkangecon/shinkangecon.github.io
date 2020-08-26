@@ -54,7 +54,7 @@ My main research interests lie in macroeconomics and family economics.
   
   </details>
   
-  
+  <br>
 ---
 
  ["Status Externalities and Low Birth Rates in Korea"](https://)
