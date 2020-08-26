@@ -32,7 +32,7 @@ My main research interests lie in macroeconomics and family economics.
   </details>
   <br> 
  <details>
-  <summary markdown="span"><font color="brown">"On the Distribution of Wealth and Employment"</font>
+  <summary markdown="span"><font color="dodgerskyblue">"On the Distribution of Wealth and Employment"</font>
     
   <font color="black"><b><i>Review of Economic Dynamics</i></b></font>, October 2018, 30, 86-105
   <br><a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">Publisher</a> &#x1F4D7; / <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper Version</a> &#x1F4D8;</summary>
@@ -48,7 +48,7 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="slateblue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
+  <summary markdown="span"><font color="dodgerblue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
   <br><a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">Working Paper</a> &#x1F4D8;</summary>
