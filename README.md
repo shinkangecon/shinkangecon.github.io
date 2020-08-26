@@ -20,7 +20,7 @@ My main research interests lie in macroeconomics and family economics.
 ### Published & Forthcoming Papers:
 
 <details>
-  <summary markdown="span"><font color="dodgerskyblue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
+  <summary markdown="span"><font color="Crimson">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
   <font color="black"><b><i>Macroeconomic Dynamics</i></b></font>, forthcoming
   <br><a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">Publisher</a> / <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper Version</a> </summary>
@@ -32,7 +32,7 @@ My main research interests lie in macroeconomics and family economics.
   </details>
   <br> 
  <details>
-  <summary markdown="span"><font color="dodgerskyblue">"On the Distribution of Wealth and Employment"</font>
+  <summary markdown="span"><font color="Crimson">"On the Distribution of Wealth and Employment"</font>
     
   <font color="black"><b><i>Review of Economic Dynamics</i></b></font>, October 2018, 30, 86-105
   <br><a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">Publisher</a> &#x1F4D7; / <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper Version</a> &#x1F4D8;</summary>
@@ -97,21 +97,21 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Selected Work in Progress:
 <details>
-  <summary markdown="span"><font color="FireBrick">"Implications of School Closures for Inequality and Intergenerational Mobility"</font>
+  <summary markdown="span"><font color="Crimson">"Implications of School Closures for Inequality and Intergenerational Mobility"</font>
   
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))</summary>
   
  </details>
 <br>
 <details>
-  <summary markdown="span"><font color="FireBrick">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font>
+  <summary markdown="span"><font color="Crimson">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font>
   
   (with [Hitoshi Tsujiyama](https://sites.google.com/site/hitoshitsujiyama/))</summary>
   
  </details>
  <br>
  <details>
-  <summary markdown="span"><font color="FireBrick">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font>
+  <summary markdown="span"><font color="Crimson">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font>
   
   (with [Dmitry Matveev](https://www.sites.google.com/site/dimitrymatveev/))</summary>
   
