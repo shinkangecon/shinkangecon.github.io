@@ -48,7 +48,7 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="black">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
+  <summary markdown="span"><font color="slateblue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
   <br><a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">Working Paper</a> &#x1F4D8;</summary>
@@ -70,7 +70,7 @@ My main research interests lie in macroeconomics and family economics.
  </details>
 <br>
  <details>
-  <summary markdown="span"><font color="black">"Heterogeneity, Transfer Progressivity and Business Cycles"</font>
+  <summary markdown="span"><font color="sienna">"Heterogeneity, Transfer Progressivity and Business Cycles"</font>
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
   <br><a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank">Working Paper</a> &#x1F4D8;</summary>
@@ -97,7 +97,7 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Selected Work in Progress:
 <details>
-  <summary markdown="span"><font color="black">"Implications of School Closures for Inequality and Intergenerational Mobility"</font>
+  <summary markdown="span"><font color="teal">"Implications of School Closures for Inequality and Intergenerational Mobility"</font>
   
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))</summary>
   
