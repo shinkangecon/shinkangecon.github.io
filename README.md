@@ -20,7 +20,7 @@ My main research interests lie in macroeconomics and family economics.
 ### Published & Forthcoming Papers:
 
 <details>
-  <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
+  <summary markdown="span"><font color="dodgerskyblue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
   <font color="black"><b><i>Macroeconomic Dynamics</i></b></font>, forthcoming
   <br><a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">Publisher</a> &#x1F4D7; / <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank">Working Paper Version</a> &#x1F4D8;</summary>
@@ -60,7 +60,7 @@ My main research interests lie in macroeconomics and family economics.
  </details>
  <br>
  <details>
-  <summary markdown="span"><font color="black">"Status Externalities and Low Birth Rates in Korea"</font>
+  <summary markdown="span"><font color="dodgerblue">"Status Externalities and Low Birth Rates in Korea"</font>
     
   (with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
   <br><a href="https://" target="_blank">*Under revision; draft available soon*</a> &#x1F4D8;</summary>
@@ -70,7 +70,7 @@ My main research interests lie in macroeconomics and family economics.
  </details>
 <br>
  <details>
-  <summary markdown="span"><font color="sienna">"Heterogeneity, Transfer Progressivity and Business Cycles"</font>
+  <summary markdown="span"><font color="dodgerblue">"Heterogeneity, Transfer Progressivity and Business Cycles"</font>
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
   <br><a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank">Working Paper</a> &#x1F4D8;</summary>
@@ -82,7 +82,7 @@ My main research interests lie in macroeconomics and family economics.
  </details>
 <br>
  <details>
-  <summary markdown="span"><font color="black">"Parental Time Investment and Intergenerational Mobility"</font>
+  <summary markdown="span"><font color="dodgerblue">"Parental Time Investment and Intergenerational Mobility"</font>
     
   <a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank">Working Paper</a> &#x1F4D8;</summary>
   
@@ -104,14 +104,14 @@ My main research interests lie in macroeconomics and family economics.
  </details>
 <br>
 <details>
-  <summary markdown="span"><font color="black">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font>
+  <summary markdown="span"><font color="teal">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font>
   
   (with [Hitoshi Tsujiyama](https://sites.google.com/site/hitoshitsujiyama/))</summary>
   
  </details>
  <br>
  <details>
-  <summary markdown="span"><font color="black">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font>
+  <summary markdown="span"><font color="teal">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font>
   
   (with [Dmitry Matveev](https://www.sites.google.com/site/dimitrymatveev/))</summary>
   
