@@ -40,8 +40,8 @@ My main research interests lie in macroeconomics and family economics.
 </details>
 
 ----
-
 <br>
+
 ### Working Papers:
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
@@ -91,9 +91,9 @@ My main research interests lie in macroeconomics and family economics.
   
  </details>
  
- ----
- 
+ ---- 
  <br>
+ 
 ### Selected Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">"Implications of School Closures for Inequality and Intergenerational Mobility"</font>
