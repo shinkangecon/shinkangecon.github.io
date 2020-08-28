@@ -12,7 +12,7 @@ My main research interests lie in macroeconomics and family economics.
 <br>
 
 
-<font color="brown"><i>Note</i></font>: Click title to see abstract.
+<font color="brown"><i>Note: Click title to see abstract.</i></font>
 
 ----
 
