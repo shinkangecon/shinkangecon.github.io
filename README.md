@@ -61,8 +61,10 @@ My main research interests lie in macroeconomics and family economics.
     
   (with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
   <br><a href="https://" target="_blank">*Under revision; draft available soon*</a> </summary>
-  
-
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | East Asians, especially South Koreans, are apparently obsessed with children’s education – most children are stuck in expensive private institutes and cram schools in the evening. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper we propose a theory with status externality and endogenous fertility that connect these two facts. We first use a simple model to show that the status externality that makes parents care about the quality of their children relative to other children is distortionary, leading to high education investments and low fertility, and that a simple education tax with lump-sum transfers could address this distortion. We then build a quantitative model calibrated to Korean micro data to explore how various government policies affect fertility and welfare. We find that taxing education has potentials in addressing the distortion and increasing welfare. By contrast, pro-natal transfers that South Korean government has recently focused on might raise fertility at the expense of significant welfare losses. |
   
  </details>
  
