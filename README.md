@@ -18,7 +18,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
   <font color="black"><b><i>Macroeconomic Dynamics</i></b></font>, forthcoming
-  <br><a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank">[<u>Publisher</u>]</a> / <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank"><u>[Working Paper Version]</u></a> </summary>
+  <br><a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank"><u>[Publisher]</u></a> / <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank"><u>[Working Paper Version]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -31,7 +31,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
     
   <font color="black"><b><i>Review of Economic Dynamics</i></b></font>, October 2018, 30, 86-105
-  <br><a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank">Publisher</a> / <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank">Working Paper Version</a> </summary>
+  <br><a href="https://www.sciencedirect.com/science/article/pii/S1094202518301613" target="_blank"><u>[Publisher]</u></a> / <a href="https://drive.google.com/open?id=1pYHMHYqz_z82_wU5vl7UEK0c7aHrY_Ht" target="_blank"><u>[Working Paper Version]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -47,7 +47,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
-  <br><a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank">Working Paper</a> </summary>
+  <br><a href="https://drive.google.com/file/d/1eIaFdyTdK74G1xBB1DkkcqZDwFezjoBP/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -73,7 +73,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">"Heterogeneity, Transfer Progressivity and Business Cycles"</font>
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
-  <br><a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank">Working Paper</a> </summary>
+  <br><a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -85,7 +85,7 @@ My main research interests lie in macroeconomics and family economics.
  <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
     
-  <a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank">Working Paper</a> </summary>
+  <a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
