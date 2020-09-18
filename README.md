@@ -135,3 +135,5 @@ My main research interests lie in macroeconomics and family economics.
   | This paper considers model selection using the Akaike's Information Criterion (AIC), the corrected Akaike's Information Criterion (AICc), and the Bayesian Information Criterion (BIC) for panel data models with fixed effects. Applying these information criteria to fixed effects panel models is not a trivial matter due to the incidental parameters problem that might adversely affect their practical performance, especially when T is small. Through the Monte Carlo experiments it has been found that the information criteria are quite successful in selecting the true model. In particular, given the existence of the incidental parameters problem in the data generating process, the AICc and the AIC operate successfully unless T is extremely small. This study, therefore, concludes that the information criteria---which are simple to use as well as effective---will likely help empirical researchers determine the proper structure of the error term in fixed effects estimation in an objective manner. |
   
  </details>
+ 
+ ----
