@@ -98,7 +98,7 @@ My main research interests lie in macroeconomics and family economics.
  
 ### Selected Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">"Implications of School Closures for Inequality and Intergenerational Mobility"</font>
+  <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font>
   
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))</summary>
   
