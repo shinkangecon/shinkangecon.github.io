@@ -47,7 +47,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font>
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
-  <br><a href=""><u>[Working Paper]</u></a> </summary>
+  <br><a href="https://" target="_blank">*Draft available soon*</a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
