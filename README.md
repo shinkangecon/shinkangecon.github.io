@@ -46,7 +46,7 @@ My main research interests lie in macroeconomics and family economics.
 <details>
   <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font>
     
-  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))    
+  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
   <br><a href=""><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
@@ -59,7 +59,7 @@ My main research interests lie in macroeconomics and family economics.
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
     
-  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)), submitted  
+  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)), submitted
   <br><a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
