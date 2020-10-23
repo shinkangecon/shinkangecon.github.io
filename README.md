@@ -61,7 +61,7 @@ My main research interests lie in macroeconomics and family economics.
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
   
-  submitted
+  <i>submitted</i>
   <br><a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
@@ -89,7 +89,7 @@ My main research interests lie in macroeconomics and family economics.
     
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
   
-  submitted
+  <i>submitted</i>
   <br><a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
@@ -102,7 +102,7 @@ My main research interests lie in macroeconomics and family economics.
  <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
   
-  submitted
+  <i>submitted</i>
   <br><a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
