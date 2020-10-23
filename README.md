@@ -54,14 +54,12 @@ My main research interests lie in macroeconomics and family economics.
   | Available soon |
   
  </details>
-
+ 
+----
 <details>
   <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>
     
-  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
-  
-  submitted
-  
+  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/)), submitted  
   <br><a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
@@ -85,11 +83,9 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Heterogeneity, Transfer Progressivity and Business Cycles"</font>
+  <summary markdown="span"><font color="blue">"Heterogeneity, Transfer Progressivity and Business Cycles"</font>        
     
-    submitted
-    
-  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))
+  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/)), submitted
   <br><a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
@@ -101,8 +97,6 @@ My main research interests lie in macroeconomics and family economics.
  ----
  <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
-    
-  submitted
     
   <a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank"><u>[Working Paper]</u></a> </summary>
   
