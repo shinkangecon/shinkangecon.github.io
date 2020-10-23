@@ -97,7 +97,8 @@ My main research interests lie in macroeconomics and family economics.
  ----
  <details>
   <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
-    
+  
+  submitted
   <a href="https://drive.google.com/open?id=102hB2wCy8VFT9WsWgKMq0JM0sGNtKQF7" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
