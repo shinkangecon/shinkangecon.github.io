@@ -51,7 +51,7 @@ My main research interests lie in macroeconomics and family economics.
   
   | **Abstract**          |
   |:---------------------------|
-  | Available soon |
+  | A majority of governments around the world unprecedentedly closed schools in response to the COVID-19 pandemic. This paper quantitatively investigates the aggregate and intergenerational implications of school closures using a dynastic overlapping generations general equilibrium model. In the model, school in the form of public education investments complements parental investments in producing children's human capital. We calibrate the stationary equilibrium of the model economy to the U.S. and compute the equilibrium responses following unexpected school closure shocks. We find that school closures have moderate long-lasting adverse effects on macroeconomic aggregates. Importantly, these negative aggregate effects are found to exacerbate nonlinearly with the school closure length. In addition, we find that school closures reduce intergenerational mobility especially among older children. Parental responses to school closures are heterogeneous, enlarging disparities especially in parental money investments. Since money investments are more important for the human capital formation of older children, parental influences on those children's lifetime income are strengthened. Our findings provide a quantitatively relevant dimension to consider for policymakers accessing potential costs of school closures during the pandemic. |
   
  </details>
  
