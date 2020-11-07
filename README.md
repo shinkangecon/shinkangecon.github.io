@@ -134,6 +134,15 @@ My main research interests lie in macroeconomics and family economics.
  ----
  
  <details>
+  <summary markdown="span"><font color="blue">"Nonlinear Earnings and Aggregate Labor Market Fluctuations across Countries"</font>
+  
+  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))</summary>
+  
+ </details>
+ 
+ ----
+ 
+ <details>
   <summary markdown="span"><font color="blue">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font>
   
   (with [Dmitry Matveev](https://www.sites.google.com/site/dimitrymatveev/))</summary>
