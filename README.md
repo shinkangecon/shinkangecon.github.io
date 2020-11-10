@@ -89,7 +89,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
     
   <font color="black"><b><i>Review of Economic Dynamics</i></b></font>, October 2018, 30, 86-105</summary>
-    
+  
   | **Abstract**          |
   |:---------------------------|
   | In the United States, the employment rate is nearly flat across wealth quintiles with the exception of the first quintile. Correlations between wealth and employment are close to zero or moderately positive. However, incomplete markets models with a standard utility function counterfactually generate a strongly negative relationship between wealth and employment. Using a fairly standard incomplete markets model calibrated to match the distribution of wealth, I find that government transfers and capital income taxation increase the (non-targeted) correlations between wealth and employment substantially, bringing the model closer to the data. As the model's fit with the distribution of wealth and employment improves, I find that the precautionary motive of labor supply is mitigated, thereby raising aggregate labor supply elasticities substantially. |
