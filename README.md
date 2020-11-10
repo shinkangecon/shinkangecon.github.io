@@ -14,16 +14,15 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font>
+  <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font> (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))
     
-  (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/))</summary>
+  <br><a href="https://drive.google.com/file/d/1KyyoWT3b3Y_HlnHDZJZCg_MJLCYjpfcr/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a></summary>
   
   | **Abstract**          |
   |:---------------------------|
   | A majority of governments around the world unprecedentedly closed schools in response to the COVID-19 pandemic. This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We calibrate the stationary equilibrium of the model to the U.S. economy and compute the equilibrium responses following unexpected school closure shocks. We find that school closures have moderate long-lasting adverse effects on macroeconomic aggregates such as output. In addition, we find that school closures reduce intergenerational mobility, especially among older children. Finally, we find that lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall lifetime incomes of the affected children, while mitigating negative impacts on intergenerational mobility. In all findings, heterogeneous parental responses to school closures play a key role. Our results provide a quantitatively relevant dimension to consider for policymakers assessing potential costs of school closures. |
   
- </details> 
- <br><a href="https://drive.google.com/file/d/1KyyoWT3b3Y_HlnHDZJZCg_MJLCYjpfcr/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a>
+ </details>  
  
 ----
 <details>
