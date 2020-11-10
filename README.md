@@ -21,7 +21,7 @@ My main research interests lie in macroeconomics and family economics.
   | A majority of governments around the world unprecedentedly closed schools in response to the COVID-19 pandemic. This paper quantitatively investigates the macroeconomic and distributional consequences of school closures through intergenerational channels in the medium- and long-term. The model economy is a dynastic overlapping generations general equilibrium model in which schools, in the form of public education investments, complement parental investments in producing children's human capital. We calibrate the stationary equilibrium of the model to the U.S. economy and compute the equilibrium responses following unexpected school closure shocks. We find that school closures have moderate long-lasting adverse effects on macroeconomic aggregates such as output. In addition, we find that school closures reduce intergenerational mobility, especially among older children. Finally, we find that lower substitutability between public and parental investments induces larger damages in the aggregate economy and overall lifetime incomes of the affected children, while mitigating negative impacts on intergenerational mobility. In all findings, heterogeneous parental responses to school closures play a key role. Our results provide a quantitatively relevant dimension to consider for policymakers assessing potential costs of school closures. |
   
  </details>
- <a href="https://drive.google.com/file/d/1KyyoWT3b3Y_HlnHDZJZCg_MJLCYjpfcr/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a>
+ <a href="https://drive.google.com/file/d/1KyyoWT3b3Y_HlnHDZJZCg_MJLCYjpfcr/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a>
  
 ----
 <details>
@@ -32,7 +32,7 @@ My main research interests lie in macroeconomics and family economics.
   | Long hours worked for higher returns and higher returns for longer hours worked are common to many occupations, namely, nonlinear occupations (Goldin 2014). Over the last four decades, both the share and the relative wage premium of nonlinear occupations have been increasing. Females have been facing rising experience premiums, especially in nonlinear occupations. To quantitatively explore how these changes have affected the female labor supply over time, we build a quantitative, dynamic general equilibrium model of occupational choice and labor supply at both the extensive and intensive margins. A decomposition analysis finds that rising experience premiums, especially in nonlinear occupations, and technical change that is biased towards nonlinear occupations are important in explaining the intensive margin of female labor supply, which has continued to increase even in the recent period, during which female employment has stagnated. Finally, a counterfactual experiment suggests that if the barrier aspects of nonlinearities had gradually vanished, female employment would have been considerably higher at the expense of significantly lower labor supply at the intensive margin. |
   
  </details>
- <a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> 
+ <a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a> 
  
  ----
  <details>
@@ -54,7 +54,7 @@ My main research interests lie in macroeconomics and family economics.
   | This paper studies how transfer progressivity influences aggregate fluctuations when interacted with household heterogeneity. Using a simple static model of the extensive margin labor supply, we analytically characterize how transfer progressivity influences differential labor supply responses to aggregate conditions across heterogeneous households. We then build a quantitative dynamic general equilibrium model with both idiosyncratic and aggregate productivity shocks and show that the model delivers moderately procyclical average labor productivity and a large cyclical volatility of aggregate hours relative to output. Counterfactual exercises show that redistributive policies have very different implications for aggregate fluctuations, depending on whether tax progressivity or transfer progressivity is used. We provide empirical evidence on the heterogeneity of employment responses across the wage distribution, which supports the key model mechanism. |
     
  </details>
- <a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank"><u>[Working Paper]</u></a>
+ <a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank"><u>[Paper (PDF)]</u></a>
  
  ----
  <details>
@@ -65,7 +65,7 @@ My main research interests lie in macroeconomics and family economics.
   | This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delievers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare. |
   
  </details>
- <a href="https://drive.google.com/file/d/1APvhSKT1XA88VsPbMXPKN0Qqrz9dfVe_/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a>
+ <a href="https://drive.google.com/file/d/1APvhSKT1XA88VsPbMXPKN0Qqrz9dfVe_/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a>
  
  ---- 
  <br>
@@ -143,7 +143,7 @@ My main research interests lie in macroeconomics and family economics.
   <summary markdown="span"><font color="blue">"Model Selection for Panel Data Models with Fixed Effects: A Simulation Study"</font>
     
   Master's thesis
-  <br><a href="https://drive.google.com/file/d/1Ewn0Zc1wlhsZdw4kUlW5vk_pHhGxXiJ9/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
+  <br><a href="https://drive.google.com/file/d/1Ewn0Zc1wlhsZdw4kUlW5vk_pHhGxXiJ9/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
