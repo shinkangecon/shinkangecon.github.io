@@ -47,7 +47,7 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Heterogeneity, Transfer Progressivity and Business Cycles"</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)    
+  <summary markdown="span"><font color="blue">"Heterogeneity, Transfer Progressivity and Business Cycles"</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)
   <br><a href="https://drive.google.com/open?id=1vW8i3IzULSe1yhjQC5vY8q-fE02pxHsl" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
@@ -58,7 +58,7 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>  
+  <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font>
   <br><a href="https://drive.google.com/file/d/1APvhSKT1XA88VsPbMXPKN0Qqrz9dfVe_/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
