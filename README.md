@@ -25,9 +25,8 @@ My main research interests lie in macroeconomics and family economics.
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)  
-  <br><i>submitted</i>
-  <br><a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
+  <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>) <i>submitted</i>
+    <br><a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
   |:---------------------------|
