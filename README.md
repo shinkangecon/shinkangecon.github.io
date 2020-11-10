@@ -25,7 +25,7 @@ My main research interests lie in macroeconomics and family economics.
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font>  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>) <i>submitted</i>
+  <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>) <i>submitted</i>
     <br><a href="https://drive.google.com/file/d/1Z1hzDr3rDzIpmtf8W3ZrjSz73dgkd_Mf/view?usp=sharing" target="_blank"><u>[Working Paper]</u></a> </summary>
   
   | **Abstract**          |
@@ -36,10 +36,7 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Status Externalities and Low Birth Rates in Korea"</font>
-    
-  (with [Seongeun Kim](https://sites.google.com/site/sekimphd/) and [Michèle Tertilt](http://tertilt.vwl.uni-mannheim.de/))
-  <br><a href="https://" target="_blank">*Under revision; draft available soon*</a> </summary>
+  <summary markdown="span"><font color="blue">"Status Externalities and Low Birth Rates in Korea"</font> (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>) Under revision; draft available soon</summary>
     
   | **Summary**          |
   |:---------------------------|
