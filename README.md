@@ -77,14 +77,14 @@ My main research interests lie in macroeconomics and family economics.
 <details>
   <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
     
-  <font color="black"><b><i>Macroeconomic Dynamics</i></b></font>, forthcoming</summary>
+  <font color="black"><b><i>Macroeconomic Dynamics</i></b></font>, 24(8), 2012-32, December 2020</summary>
   
   | **Abstract**          |
   |:---------------------------|
   | A higher labor tax rate increases the equilibrium real interest rate and reduces the equilibrium wage in a heterogeneous-agent model with endogenous savings and indivisible labor supply decisions. I show that these general equilibrium (GE) adjustments, in particular of the real interest rate, reinforce the negative employment impact of higher labor taxes. However, the representative-agent version of the model, which generates similar aggregate employment responses to labor tax changes, implies that GE feedback is neutral. The cross-country panel data reveal that the negative association between labor tax rates and the extensive margin labor supply is significantly and robustly weaker in small open economies where the interest rate is less tightly linked to domestic circumstances. This empirical evidence supports the transmission mechanism of labor tax changes for employment in the heterogeneous-agent model. |
   
   </details>
-  <a href="http://dx.doi.org/10.1017/S1365100519000087" target="_blank"><u>[Publisher]</u></a> / <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank"><u>[Working Paper Version]</u></a>
+  <a href="https://www.cambridge.org/core/journals/macroeconomic-dynamics/article/general-equilibrium-feedback-regarding-the-employment-effects-of-labor-taxes/272B245BF35356A10062609E215D545D" target="_blank"><u>[Publisher]</u></a> / <a href="https://drive.google.com/open?id=1DoZpKCBzuf2Yo3OU-PsT_Z0LP_AUAcYr" target="_blank"><u>[Working Paper Version]</u></a>
   
   ----
   <details>
