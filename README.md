@@ -71,14 +71,14 @@ My main research interests lie in macroeconomics and family economics.
  
  ---- 
  <details>
-  <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font></summary>
+  <summary markdown="span"><font color="blue">"Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
-  | This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delievers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare. |
+  | This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models. |
   
  </details>
- <a href="https://drive.google.com/file/d/1APvhSKT1XA88VsPbMXPKN0Qqrz9dfVe_/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a>
+ <a href="https://drive.google.com/file/d/1rPpP2utmjjLCLaaUFFKGUZD3pbpETtf_/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a>
  
  ---- 
  <br>
