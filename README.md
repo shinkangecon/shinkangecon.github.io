@@ -45,7 +45,7 @@ My main research interests lie in macroeconomics and family economics.
   | East Asians, especially South Koreans, are apparently preoccupied with their children’s education – most children spend time in expensive private institutes and cram schools in the evening and on weekends. At the same time, South Korea currently has the lowest total fertility rate in the world. In this paper we propose a theory with status externality and endogenous fertility that connect these two facts. Using a quantitative heterogeneous-agent model with status externality calibrated to the recent Korean economy, we first find that fertility would be 16% higher in the absence of the status externality. We then explore how government interventions affect fertility and welfare from both positive and normative perspectives. The optimal policy maximizing the current generation’s welfare by addressing the externality-induced distortions is the mixture of an education investment tax rate of 12% and a moderate size of pro-natal transfers. We also highlight the importance of externality feedback in our optimal policy result and their repercussions for the future generations. |
   
  </details>
- <a href="https://" target="_blank"><u>Under revision (draft available soon)</u></a>
+ <a href="https://drive.google.com/file/d/1AdxmiOQQeOHvguFaENjD8y-js3Dx0RVl/view?usp=sharing" target="_blank"><u>[Slides (PDF)]</u></a> / Draft available soon
  
  ----
  <details>
