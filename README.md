@@ -14,7 +14,9 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
+  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font>
+    
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
   <font color="black"><b><i>Covid Economics, Vetted and Real-Time Papers</i></b></font>, 57, 46-93, November 2020</summary>
   
@@ -27,7 +29,9 @@ My main research interests lie in macroeconomics and family economics.
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font>
+    
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -38,7 +42,9 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">Status Externalities and Low Birth Rates in Korea</font> (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
+  <summary markdown="span"><font color="blue">Status Externalities and Low Birth Rates in Korea</font>
+    
+  (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -49,7 +55,9 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity and Business Cycles</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity and Business Cycles</font>
+    
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
     
   | **Abstract**          |
   |:---------------------------|
