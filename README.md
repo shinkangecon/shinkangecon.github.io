@@ -14,7 +14,7 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">"Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment"</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
+  <summary markdown="span"><font color="blue">Aggregate and Intergenerational Implications of School Closures: A Quantitative Assessment</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
   <font color="black"><b><i>Covid Economics, Vetted and Real-Time Papers</i></b></font>, 57, 46-93, November 2020</summary>
   
@@ -27,7 +27,7 @@ My main research interests lie in macroeconomics and family economics.
  
 ----
 <details>
-  <summary markdown="span"><font color="blue">"Nonlinear Occupations and Female Labor Supply Over Time"</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
+  <summary markdown="span"><font color="blue">Nonlinear Occupations and Female Labor Supply Over Time</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)</summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -38,7 +38,7 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Status Externalities and Low Birth Rates in Korea"</font> (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
+  <summary markdown="span"><font color="blue">Status Externalities and Low Birth Rates in Korea</font> (with <a href="https://sites.google.com/site/sekimphd/" target="_blank">Seongeun Kim</a> and <a href="http://tertilt.vwl.uni-mannheim.de/" target="_blank">Michèle Tertilt</a>)</summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -49,7 +49,7 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Heterogeneity, Transfer Progressivity and Business Cycles"</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity and Business Cycles</font> (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -60,7 +60,7 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">"Parental Time Investment and Intergenerational Mobility"</font></summary>
+  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -71,7 +71,7 @@ My main research interests lie in macroeconomics and family economics.
  
  ---- 
  <details>
-  <summary markdown="span"><font color="blue">"Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length"</font></summary>
+  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -86,7 +86,7 @@ My main research interests lie in macroeconomics and family economics.
 ### Published & Forthcoming Papers:
 
 <details>
-  <summary markdown="span"><font color="blue">"General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes"</font>
+  <summary markdown="span"><font color="blue">General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes</font>
     
   <font color="black"><b><i>Macroeconomic Dynamics</i></b></font>, 24(8), 2012-32, December 2020</summary>
   
@@ -99,7 +99,7 @@ My main research interests lie in macroeconomics and family economics.
   
   ----
   <details>
-  <summary markdown="span"><font color="blue">"On the Distribution of Wealth and Employment"</font>
+  <summary markdown="span"><font color="blue">On the Distribution of Wealth and Employment</font>
     
   <font color="black"><b><i>Review of Economic Dynamics</i></b></font>, 30, 86-105, October 2018</summary>
   
@@ -115,7 +115,7 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Selected Work in Progress:
 <details>
-  <summary markdown="span"><font color="blue">"Inequality in Health and Wealth over the Life Cycle in Germany"</font>
+  <summary markdown="span"><font color="blue">Inequality in Health and Wealth over the Life Cycle in Germany</font>
   
   (with [Lukas Mahler](https://))</summary>
   
@@ -124,7 +124,7 @@ My main research interests lie in macroeconomics and family economics.
  ----
  
 <details>
-  <summary markdown="span"><font color="blue">"Intergenerational Mobility, Social Welfare and Optimal Policies"</font>
+  <summary markdown="span"><font color="blue">Intergenerational Mobility, Social Welfare and Optimal Policies</font>
   
   (with [Hitoshi Tsujiyama](https://sites.google.com/site/hitoshitsujiyama/))</summary>
   
@@ -133,7 +133,7 @@ My main research interests lie in macroeconomics and family economics.
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">"Nonlinear Earnings and Aggregate Labor Market Fluctuations across Countries"</font>
+  <summary markdown="span"><font color="blue">Nonlinear Earnings and Aggregate Labor Market Fluctuations across Countries</font>
   
   (with [Youngsoo Jang](https://sites.google.com/site/youngsoojangecon/) and [Takeki Sunakawa](https://tkksnk.github.io/))</summary>
   
@@ -142,7 +142,7 @@ My main research interests lie in macroeconomics and family economics.
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">"Indivisible Labor and the Optimal Progressivity of Tax and Transfers"</font>
+  <summary markdown="span"><font color="blue">Indivisible Labor and the Optimal Progressivity of Tax and Transfers</font>
   
   (with [Dmitry Matveev](https://www.sites.google.com/site/dimitrymatveev/))</summary>
   
@@ -153,7 +153,7 @@ My main research interests lie in macroeconomics and family economics.
  
 ### Old Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">"Model Selection for Panel Data Models with Fixed Effects: A Simulation Study"</font>
+  <summary markdown="span"><font color="blue">Model Selection for Panel Data Models with Fixed Effects: A Simulation Study</font>
     
   Master's thesis
   <br><a href="https://drive.google.com/file/d/1Ewn0Zc1wlhsZdw4kUlW5vk_pHhGxXiJ9/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a> </summary>
