@@ -18,7 +18,7 @@ My main research interests lie in macroeconomics and family economics.
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
-  <font color="black"><i>Covid Economics, Vetted and Real-Time Papers</i></font>, 57, 46-93, November 2020</summary>
+  <font color="black"><b><i>Covid Economics, Vetted and Real-Time Papers</i></b></font>, 57, 46-93, November 2020</summary>
   
   | **Abstract**          |
   |:---------------------------|
