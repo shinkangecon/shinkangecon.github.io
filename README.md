@@ -18,7 +18,7 @@ My main research interests lie in macroeconomics and family economics.
     
   (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a>)
   
-  <font color="black"><b><i>Covid Economics, Vetted and Real-Time Papers</i></b></font>, 57, 46-93, November 2020</summary>
+  <font color="black"><b><i>Covid Economics, Vetted and Real-Time Papers</i></b>, 57, 46-93, November 2020</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -98,7 +98,7 @@ My main research interests lie in macroeconomics and family economics.
 <details>
   <summary markdown="span"><font color="blue">General Equilibrium Feedback Regarding the Employment Effects of Labor Taxes</font>
     
-  <font color="black"><b><i>Macroeconomic Dynamics</i></b></font>, 24(8), 2012-32, December 2020</summary>
+  <font color="black"><b><i>Macroeconomic Dynamics</i></b>, 24(8), 2012-32, December 2020</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
@@ -111,7 +111,7 @@ My main research interests lie in macroeconomics and family economics.
   <details>
   <summary markdown="span"><font color="blue">On the Distribution of Wealth and Employment</font>
     
-  <font color="black"><b><i>Review of Economic Dynamics</i></b></font>, 30, 86-105, October 2018</summary>
+  <font color="black"><b><i>Review of Economic Dynamics</i></b>, 30, 86-105, October 2018</font></summary>
   
   | **Abstract**          |
   |:---------------------------|
