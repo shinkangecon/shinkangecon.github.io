@@ -125,6 +125,15 @@ My main research interests lie in macroeconomics and family economics.
 
 ### Selected Work in Progress:
 <details>
+  <summary markdown="span"><font color="blue">Career, Information, and the Gender Gap over the Life Cycle</font>
+  
+  (with [Daisoon Kim](https://sites.google.com/site/fatherofseoyoon/))</summary>
+  
+ </details>
+ 
+ ----
+ 
+<details>
   <summary markdown="span"><font color="blue">Inequality in Health and Wealth over the Life Cycle in Germany</font>
   
   (with [Lukas Mahler](https://))</summary>
