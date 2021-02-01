@@ -59,7 +59,9 @@ My main research interests lie in macroeconomics and family economics.
  <details>
   <summary markdown="span"><font color="blue">Heterogeneity, Transfer Progressivity and Business Cycles</font>
     
-  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)</summary>
+  (with <a href="https://sites.google.com/site/youngsoojangecon/" target="_blank">Youngsoo Jang</a> and <a href="https://tkksnk.github.io/" target="_blank">Takeki Sunakawa</a>)
+  
+  <font color="black">Revise & Resubmit, <b><i>Quantitative Economics</i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
