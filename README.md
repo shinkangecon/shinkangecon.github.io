@@ -72,7 +72,9 @@ My main research interests lie in macroeconomics and family economics.
  
  ----
  <details>
-  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font></summary>
+  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
+    
+  <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
