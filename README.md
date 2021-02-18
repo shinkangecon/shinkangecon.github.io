@@ -127,7 +127,7 @@ My main research interests lie in macroeconomics and family economics.
   ----
 <br>
 
-### Selected Work in Progress:
+### Select Work in Progress:
 <details>
   <summary markdown="span"><font color="blue">Career, Information, and the Gender Gap over the Life Cycle</font>
   
