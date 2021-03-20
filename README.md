@@ -142,7 +142,7 @@ My main research interests lie in macroeconomics and family economics.
 <details>
   <summary markdown="span"><font color="blue">Inequality in Health and Wealth over the Life Cycle in Germany</font>
   
-  (with [Lukas Mahler](https://))</summary>
+  (with [Lukas Mahler](https://gess.uni-mannheim.de/doctoral-programs/economics-cdse/students/people/show/lukas-mahler.html))</summary>
   
  </details>
  
