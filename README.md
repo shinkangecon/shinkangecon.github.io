@@ -2,7 +2,8 @@
 
 ### Welcome!
 
-I am an Assistant Professor in the Department of Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). I am a member of the Collaborative Research Center Transregio 224 ([CRC TR 224](https://www.crctr224.de/en/about)), funded by the German Research Foundation (DFG).
+ShinHyuck Kang
+Email: shinkang@kli.re.kr or shinkangecon@gmail.com
 
 My main research interests lie in macroeconomics and family economics.
 
