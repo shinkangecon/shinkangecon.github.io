@@ -9,7 +9,7 @@ Field of Interest: Macroeconomics, Labor Economics
 ### [Curriculum Vitae (PDF)](CV.pdf)
 
 <br>
-<font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
+<font color="scarlet"><i><small>&diams; Click the title to see abstract.</small></i></font>  
 
 ### Working Papers
 <details>
@@ -26,9 +26,7 @@ Field of Interest: Macroeconomics, Labor Economics
  </details>
 [Paper (pdf)](KP1.pdf)  /
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper
-
- <br>
- 
+ <br> 
  
  <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications of Goods and Labor Markets</font>
@@ -41,7 +39,6 @@ Field of Interest: Macroeconomics, Labor Economics
  </details>
 [Paper (pdf)](PriceSearchBCver1.pdf)  /
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175">SSRN Working Paper
-
 <br>
 
  <details>
@@ -55,7 +52,6 @@ Field of Interest: Macroeconomics, Labor Economics
  </details>
 [Paper (pdf)](JobSearchProfile.pdf)  /
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper
-
 <br>
 
 ### Work in Progress
