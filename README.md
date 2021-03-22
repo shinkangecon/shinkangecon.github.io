@@ -57,4 +57,3 @@ Research Field: Macroeconomics, Labor Economics
 ### Work in Progress
 <details>
   <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font>
- ---- 
