@@ -1,12 +1,10 @@
 {::options parse_block_html="true" /}
 
-### Welcome!
-
-ShinHyuck Kang
+### ShinHyuck Kang
 
 Email: shinkang@kli.re.kr or shinkangecon@gmail.com
 
-Research Field: Macroeconomics, Labor Economics
+Field of Interest: Macroeconomics, Labor Economics
 
 <font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
 ### [Curriculum Vitae (PDF)](CV.pdf)
