@@ -50,6 +50,7 @@ Research Field: Macroeconomics, Labor Economics
   
  </details>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000"><u>[SSRN Working Paper (pdf)]</u></a> 
+<br>
 
 ### Work in Progress:
 <details>
