@@ -25,7 +25,7 @@ Field of Interest: Macroeconomics, Labor Economics
   
  </details>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434"><u>SSRN Working Paper</u></a>
-[Paper](KP1.pdf)
+[Paper (pdf)](KP1.pdf)
  <br>
  
  
