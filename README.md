@@ -6,7 +6,7 @@ Email: shinkang@kli.re.kr or shinkangecon@gmail.com
 
 Field of Interest: Macroeconomics, Labor Economics
 
-### [Curriculum Vitae (PDF)](CV_Shin.pdf)
+### [Curriculum Vitae (PDF)](CV.pdf)
 
 <br>
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
