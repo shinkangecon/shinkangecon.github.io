@@ -16,7 +16,7 @@ Research Field: Macroeconomics, Labor Economics
 
 ### Working Papers:
 <details>
-  <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications of Labor and Product Markets</font>
+  <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font>
     
   (with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>)
   
@@ -27,7 +27,7 @@ Research Field: Macroeconomics, Labor Economics
   | We empirically investigate how uncertainty endogenously interacts with real activity and monetary policy, and analyze the role of endogeneity in shaping the efficacy of monetary policy using a shock restricted structural vector-autoregression model. Using the model, we show that both real and financial uncertainty endogenously react to business cycle fluctuations and to monetary policy actions. Then we provide two novel policy implications of endogenous uncertainty. First, a tighter monetary policy reduces financial uncertainty, but heightens real uncertainty. Second, endogeneity channels in uncertainty amplify the real effects of monetary policy. |
   
  </details>
- <a href="https://drive.google.com/file/d/1hI1sSDKdnUsiuc8zA3zebvz3PgSCEYJy/view?usp=sharing" target="_blank"><u>[Paper (PDF)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
+### [Paper (PDF)](KP_ver1.pdf) / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
  
  <br>
 
