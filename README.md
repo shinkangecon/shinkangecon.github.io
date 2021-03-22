@@ -27,7 +27,7 @@ Research Field: Macroeconomics, Labor Economics
   | We empirically investigate how uncertainty endogenously interacts with real activity and monetary policy, and analyze the role of endogeneity in shaping the efficacy of monetary policy using a shock restricted structural vector-autoregression model. Using the model, we show that both real and financial uncertainty endogenously react to business cycle fluctuations and to monetary policy actions. Then we provide two novel policy implications of endogenous uncertainty. First, a tighter monetary policy reduces financial uncertainty, but heightens real uncertainty. Second, endogeneity channels in uncertainty amplify the real effects of monetary policy. |
   
  </details>
-<a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Paper (pdf)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
+<a href="shinkangecon.github.io/KP_ver1.pdf" target="_blank"><u>[Paper (pdf)]</u></a> / <a href="https://cepr.org/file/9988/download?token=NqOyq6ZR" target="_blank"><u>[Covid Economics]</u></a>
  
  <br>
 
