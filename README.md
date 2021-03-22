@@ -61,7 +61,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <br>
     
     
-### Policy Report (in Korean)
+### Policy Report in Korean
 <details>
   <summary markdown="span"><font color="blue">노동시장 불평등 현황과 대책 Cycle</font>
     
