@@ -14,7 +14,7 @@ Research Field: Macroeconomics, Labor Economics
 <br>
 <font color="scarlet"><i><small>&diams; Click title to see abstract.</small></i></font>  
 
-### Working Papers:
+### Working Papers
 <details>
   <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font>
     
@@ -54,9 +54,7 @@ Research Field: Macroeconomics, Labor Economics
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000"><u>[SSRN Working Paper (pdf)]</u></a> 
 <br>
 
-### Work in Progress:
+### Work in Progress
 <details>
   <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font>
-  
- 
  ---- 
