@@ -32,7 +32,7 @@ Research Field: Macroeconomics, Labor Economics
  
  <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications of Goods and Labor Markets</font>
-  </i></b></font></summary>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -44,7 +44,7 @@ Research Field: Macroeconomics, Labor Economics
 
  <details>
   <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>      
-  </i></b></font></summary>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
