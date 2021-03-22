@@ -24,8 +24,9 @@ Field of Interest: Macroeconomics, Labor Economics
   | We empirically investigate how uncertainty endogenously interacts with real activity and monetary policy, and analyze the role of endogeneity in shaping the efficacy of monetary policy using a shock restricted structural vector-autoregression model. Using the model, we show that both real and financial uncertainty endogenously react to business cycle fluctuations and to monetary policy actions. Then we provide two novel policy implications of endogenous uncertainty. First, a tighter monetary policy reduces financial uncertainty, but heightens real uncertainty. Second, endogeneity channels in uncertainty amplify the real effects of monetary policy. 
   
  </details>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper  /
-[Paper (pdf)](KP1.pdf)
+[Paper (pdf)](KP1.pdf)  /
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper
+
  <br>
  
  
@@ -38,8 +39,9 @@ Field of Interest: Macroeconomics, Labor Economics
   | I propose a theory of price hunting over the business cycle with empirical evidence. In the U.S. data, not only is aggregate shopping time lower in recession but also it is more pronounced for unemployed individuals than employed ones. However, the standard price search models based on the income effect predict opposites. In this paper, I build a model of endogenous price hunting in decentralized labor and product markets. The model predicts that the joint effect of a procyclical return to shopping, which this paper newly finds, and the standard income effect explains the data. Empirical evidence based on the consumer panel data supports the arguments. Lastly, I identify that while search frictions amplify business cycle fluctuations, endogenous shopping effort consistent with the data does not.
   
  </details>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175">SSRN Working Paper  /
-[Paper (pdf)](PriceSearchBCver1.pdf)
+[Paper (pdf)](PriceSearchBCver1.pdf)  /
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175">SSRN Working Paper
+
 <br>
 
  <details>
@@ -51,8 +53,9 @@ Field of Interest: Macroeconomics, Labor Economics
   | This paper explores the puzzling inverted U-shape job search profile for U.S. data. It is well established that the standard life-cycle incomplete market model is incapable of explaining this phenomenon because of the wealth effect. I argue two channels to explain the puzzle: (i) the resolution of perceived risks through Bayesian learning, and (ii) wealth accumulation in the incomplete market over the life-cycle. To support this, I empirically and analytically show that unemployed job seekers devote less efforts to find jobs under higher uncertainty and wealth.
   
  </details>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper  /
-[Paper (pdf)](JobSearchProfile.pdf)
+[Paper (pdf)](JobSearchProfile.pdf)  /
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper
+
 <br>
 
 ### Work in Progress
