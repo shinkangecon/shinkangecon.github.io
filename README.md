@@ -24,8 +24,8 @@ Field of Interest: Macroeconomics, Labor Economics
   | We empirically investigate how uncertainty endogenously interacts with real activity and monetary policy, and analyze the role of endogeneity in shaping the efficacy of monetary policy using a shock restricted structural vector-autoregression model. Using the model, we show that both real and financial uncertainty endogenously react to business cycle fluctuations and to monetary policy actions. Then we provide two novel policy implications of endogenous uncertainty. First, a tighter monetary policy reduces financial uncertainty, but heightens real uncertainty. Second, endogeneity channels in uncertainty amplify the real effects of monetary policy. 
   
  </details>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper</a>
-[Paper (pdf)](KP1.pdf)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434"><u>SSRN Working Paper</u></a>
+<u>[Paper (pdf)](KP1.pdf)</u></a>
  <br>
  
  
@@ -39,7 +39,7 @@ Field of Interest: Macroeconomics, Labor Economics
   
  </details>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175"><u>SSRN Working Paper</u></a>
-[Paper (pdf)](PriceSearchBCver1.pdf)
+[Paper (pdf)](PriceSearchBCver1.pdf)</u></a>
 <br>
 
  <details>
@@ -52,7 +52,7 @@ Field of Interest: Macroeconomics, Labor Economics
   
  </details>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000"><u>SSRN Working Paper</u></a> 
-[Paper (pdf)](JobSearchProfile.pdf)
+<u>[Paper (pdf)](JobSearchProfile.pdf)</u></a>
 <br>
 
 ### Work in Progress
