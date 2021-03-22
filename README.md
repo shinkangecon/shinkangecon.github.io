@@ -62,7 +62,6 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
     
     
 ### Policy Report in Korean
-<details>
   <font color="blue">노동시장 불평등 현황과 대책</font>
     
   (with 윤윤규, 장인성, 최세림, 김현경, 이아영, 김예슬, 김유선, 윤정향, 김용하, 김동배</a>)
@@ -71,7 +70,6 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
  <a href="https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008&list_no=0&act=view&nPage=1&otp_id=OTP_0000000000004402">Paper (Link)
  <br>
  
- <details>
   <font color="blue">청년층 일자리 현황과 변화 전망</font>
   
   (with 김유빈, 김영아</a>)
