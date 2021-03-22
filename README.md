@@ -38,8 +38,8 @@ Research Field: Macroeconomics, Labor Economics
   
  </details>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175"><u>[SSRN Working Paper (pdf)]</u></a> 
+<br>
 
- <br>
  <details>
   <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>        
   | **Abstract**          |
