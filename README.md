@@ -27,15 +27,34 @@ Research Field: Macroeconomics, Labor Economics
   | We empirically investigate how uncertainty endogenously interacts with real activity and monetary policy, and analyze the role of endogeneity in shaping the efficacy of monetary policy using a shock restricted structural vector-autoregression model. Using the model, we show that both real and financial uncertainty endogenously react to business cycle fluctuations and to monetary policy actions. Then we provide two novel policy implications of endogenous uncertainty. First, a tighter monetary policy reduces financial uncertainty, but heightens real uncertainty. Second, endogeneity channels in uncertainty amplify the real effects of monetary policy. |
   
  </details>
-<a href="https://github.com/shinkangecon/shinkangecon.github.io/blob/b67227f956a32d11b94b633b4fe38d2898fd7718/KP_ver1.pdf"><u>[SSRN Working Paper (pdf)]</u></a> 
- 
- <br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434"><u>[SSRN Working Paper (pdf)]</u></a> 
 
-### Select Work in Progress:
-<details>
-  <summary markdown="span"><font color="blue">Career, Information, and the Gender Gap over the Life Cycle</font>
+ <br>
+ <details>
+  <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications of Goods and Labor Markets</font>
+        
+  | **Abstract**          |
+  |:---------------------------|
+  | I propose a theory of price hunting over the business cycle with empirical evidence. In the U.S. data, not only is aggregate shopping time lower in recession but also it is more pronounced for unemployed individuals than employed ones. However, the standard price search models based on the income effect predict opposites. In this paper, I build a model of endogenous price hunting in decentralized labor and product markets. The model predicts that the joint effect of a procyclical return to shopping, which this paper newly finds, and the standard income effect explains the data. Empirical evidence based on the consumer panel data supports the arguments. Lastly, I identify that while search frictions amplify business cycle fluctuations, endogenous shopping effort consistent with the data does not.
   
-  (with [Daisoon Kim](https://sites.google.com/site/fatherofseoyoon/))</summary>
+ </details>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175"><u>[SSRN Working Paper (pdf)]</u></a> 
+
+ <br>
+ <details>
+  <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>
+        
+  | **Abstract**          |
+  |:---------------------------|
+  | This paper explores the puzzling inverted U-shape job search profile for U.S. data. It is well established that the standard life-cycle incomplete market model is incapable of explaining this phenomenon because of the wealth effect. I argue two channels to explain the puzzle: (i) the resolution of perceived risks through Bayesian learning, and (ii) wealth accumulation in the incomplete market over the life-cycle. To support this, I empirically and analytically show that unemployed job seekers devote less efforts to find jobs under higher uncertainty and wealth.
+  
+ </details>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000"><u>[SSRN Working Paper (pdf)]</u></a> 
+
+### Work in Progress:
+<details>
+  <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font>
+  
   
  </details>
  
