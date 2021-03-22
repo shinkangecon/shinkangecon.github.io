@@ -18,14 +18,14 @@ Field of Interest: Macroeconomics, Labor Economics
   (with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>)
   
   <font color="black">Revise & Resubmit, <b><i>Macroeconomic Dynamics</i></b></font></summary>
-  </summary>
   
   | **Abstract**          |
   |:---------------------------|
   | We empirically investigate how uncertainty endogenously interacts with real activity and monetary policy, and analyze the role of endogeneity in shaping the efficacy of monetary policy using a shock restricted structural vector-autoregression model. Using the model, we show that both real and financial uncertainty endogenously react to business cycle fluctuations and to monetary policy actions. Then we provide two novel policy implications of endogenous uncertainty. First, a tighter monetary policy reduces financial uncertainty, but heightens real uncertainty. Second, endogeneity channels in uncertainty amplify the real effects of monetary policy. 
   
  </details>
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434"><u>[SSRN Working Paper (pdf)]</u></a> 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434"><u>[SSRN Working Paper (pdf)]</u></a>
+[Paper][KP1.pdf]
  <br>
  
  
