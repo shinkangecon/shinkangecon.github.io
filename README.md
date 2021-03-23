@@ -52,6 +52,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
  </details>
 [Paper (pdf)](JobSearchProfile.pdf)  /
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper
+  
 <br>
 
 ### Work in Progress
