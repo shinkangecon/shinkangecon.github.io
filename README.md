@@ -57,13 +57,14 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Work in Progress
 <details>
-  <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font>
+  <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle (Financial Support from Korea Institute of Public Finance</font>
   </summary>
     
   | **Abstract**          |
   |:---------------------------|
   | This paper estimates worker-firm fixed effects using the adminstrative National Tax Employer-Employee Matched Panel Data and builds a life-cycle matching model to evaluate the effectiveness of age-dependent fiscal policy. 
-  
+
+ </details>
   <br>
 
 ### Policy Reports (in Korean)
