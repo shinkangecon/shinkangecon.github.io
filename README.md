@@ -81,10 +81,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
  </details>
 <a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=13&pblctListNo=9529&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
    <br> 
-  
- </details>
-  <br>
-  
+    
 <details>
   <summary markdown="span"><font color="blue">청년층 일자리 현황과 변화 전망</font>
     
