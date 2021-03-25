@@ -76,7 +76,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
   | **Abstract**          |
   |:---------------------------|
-  | 주요결과: 생활시간조사(2014)와 한국노동패널조사(KLIPS) 17차 부가조사를 활용해 시간으로 측정한 구직노력은 Aguiar, Hurst and Karabarbounis(2013)과 달리 생애주기에 따라 연령별 차이를 보이지 않음을 보임. KLIPS를 활용해 분석한 결과, 한국의 소득 프로세스(income process)는 전반적으로 Heterogeneous Income Profile보다 Restricted Income Profile을 선호함을 보임. 지속성을 시사하는 AR(1) 모수 추정치는 전체표본 기준 약 0.9332~0.9533. Toy model을 활용해 한국의 경우 인적자본축적 행위를 구직노력으로 고려할 수 있는 가능성을 보임<br>  
+  | 주요결과: 생활시간조사 (2014)와 한국노동패널조사 (KLIPS) 17차 부가조사를 활용해 시간으로 측정한 구직노력은 Aguiar, Hurst and Karabarbounis (2013)과 달리 생애주기에 따라 연령별 차이를 보이지 않음을 보임. KLIPS를 활용해 분석한 결과, 한국의 소득 프로세스 (income process)는 전반적으로 Heterogeneous Income Profile보다 Restricted Income Profile을 선호함을 보임. 지속성을 시사하는 AR(1) 모수 추정치는 전체표본 기준 약 0.9332~0.9533. Toy model을 활용해 한국의 경우 인적자본축적 행위를 구직노력으로 고려할 수 있는 가능성을 보임<br>  
   
  </details>
 <a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=13&pblctListNo=9529&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
