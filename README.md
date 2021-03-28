@@ -9,13 +9,12 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 ### [Curriculum Vitae (PDF)](CV.pdf)
 
 <br>
-<font color="scarlet"><i><small>&diams; Click the title to see abstract.</small></i></font>  
 
 ### Working Papers
 <details>
   <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font> 
     
-  (with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>)
+  with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>
   
   <font color="black">Revise & Resubmit, <b><i>Macroeconomic Dynamics</i></b></font></summary>
   
@@ -85,7 +84,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <details>
   <summary markdown="span"><font color="blue">청년층 일자리 현황과 변화 전망</font>
     
-(with 김유빈 (연구책임자), 김영아)
+with 김유빈 (연구책임자), 김영아
 
   </summary>
 
@@ -103,7 +102,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <details>
   <summary markdown="span"><font color="blue">노동시장 불평등 현황과 대책</font>
     
-(with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김예슬, 김유선, 윤정향, 김용하, 김동배)
+with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김예슬, 김유선, 윤정향, 김용하, 김동배
 
   </summary>
 
