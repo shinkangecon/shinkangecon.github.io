@@ -57,7 +57,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   
 ### Work in Progress
 <details>
-  <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font>
+  <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
   Financial Support from Korea Institute of Public Finance (KIPF)
   </summary>
     
