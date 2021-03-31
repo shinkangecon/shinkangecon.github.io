@@ -80,7 +80,25 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   
  </details>
 <a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=13&pblctListNo=9529&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
+
+
+<details>
+  <summary markdown="span"><font color="blue">노동시장 이중구조와 청년 일자리(Ⅱ)</font>
+
+with 안주엽 (연구책임자), 오선정
+    
+  </summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | 본 연구에서는 산업별 노동시장 이중구조의 추이 및 결정요인과 이의 효과(제2장), 탐색적 마찰이 존재하는 생애주기모형에서 노동시장 이중구조가 인적자본축적에 미치는 효과(제3장), 학교교육 - 노
+동시장 이행(제4장), 코로나 시기 청년층 일자리 현황(제5장), 노동시장 이중구조의 다양한 측면에 대한 청년층의 인식(제6장), 청년기본법을 포함한 청년 대상 일자리 정책에 대한 인식(제7장)을 분석한
+후 노동시장 이중구조의 완화와 청년층 일자리 개선을 위한 정책방향을 간략히 제시하고 있다.<br>  
   
+ </details>
+<a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=13&pblctListNo=9534&schRsrchRealmNo=1&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
+
+
 <details>
   <summary markdown="span"><font color="blue">청년층 일자리 현황과 변화 전망</font>
     
