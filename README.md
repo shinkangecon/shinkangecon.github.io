@@ -83,8 +83,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 
 <details>
-  <summary markdown="span"><font color="blue">노동시장 이중구조와 청년 일자리(Ⅱ)</font>
-
+  <summary markdown="span"><font color="blue">노동시장 이중구조와 청년 일자리(Ⅱ)</font><br>
 with 안주엽 (연구책임자), 오선정
     
   </summary>
@@ -100,8 +99,7 @@ with 안주엽 (연구책임자), 오선정
 
 
 <details>
-  <summary markdown="span"><font color="blue">청년층 일자리 현황과 변화 전망</font>
-    
+  <summary markdown="span"><font color="blue">청년층 일자리 현황과 변화 전망</font><br>
 with 김유빈 (연구책임자), 김영아
 
   </summary>
@@ -118,8 +116,7 @@ with 김유빈 (연구책임자), 김영아
 <a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=12&pblctListNo=9508&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=2">Link  
   
   <details>
-  <summary markdown="span"><font color="blue">노동시장 불평등 현황과 대책</font>
-    
+  <summary markdown="span"><font color="blue">노동시장 불평등 현황과 대책</font><br>    
 with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김예슬, 김유선, 윤정향, 김용하, 김동배
 
   </summary>
