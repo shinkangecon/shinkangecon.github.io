@@ -130,3 +130,10 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
   
  </details>
 <a href="https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008&list_no=0&act=view&nPage=1&otp_id=OTP_0000000000004402">Link
+
+<br>
+
+### Publications in Korean
+  <summary markdown="span"><font color="blue">Analyzing the employment impact of the R&D investment policies of the pharmaceutical manufacturing industry : Differential effects by firm characteristics (의약품제조업 R&D 투자 정책의 고용효과 분석, with Sun Jung Oh), The Korean Association for Policy Studies (한국정책학회보), forthcoming (in Korean)</font>
+  
+    </summary>
