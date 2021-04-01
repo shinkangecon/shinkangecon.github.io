@@ -141,5 +141,4 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
 with Sung Jung Oh<br>
 
 <font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), forthcoming (in Korean)</i></b></font></summary>
-  
-    </summary>
+ 
