@@ -82,7 +82,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=13&pblctListNo=9529&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
 
 <details>
-  <summary markdown="span"><font color="blue">규모간 임금격차 변화 원인과 정책방향</font>
+  <summary markdown="span"><font color="blue">규모간 임금격차 변화 원인과 정책방향</font><br>
 with 성재민 (연구책임자), 방형준
     
   </summary>
