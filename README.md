@@ -81,6 +81,19 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
  </details>
 <a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=13&pblctListNo=9529&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
 
+<details>
+  <summary markdown="span"><font color="blue">규모간 임금격차 변화 원인과 정책방향</font>
+with 성재민 (연구책임자), 방형준
+    
+  </summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | 이 연구에서는 규모 간 임금격차 축소를 위해 필요한 정책방향 재검토를 통해 청년 실업 등 노동시장의 문제를 완화하고 불평등과 격차 완화를 도모하고자 하였다. 제2장에서는 사업체 규모 간 격차의 추이와 추이에 영향을 미친 요인 분석, 제3장에서는 규모 간 임금격차와 시장지배력 간 관계 분석, 제4장에서는 로봇의 도입이 기업 규모에 따라 다르게 이루어질 수 있다는 가정하에 로봇 도입이 기업 규모에 따른 노동비용의 변화 설명 여부를 분석했다.<br>  
+  
+ </details>
+<a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=12&pblctListNo=9555&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
+
 
 <details>
   <summary markdown="span"><font color="blue">노동시장 이중구조와 청년 일자리(Ⅱ)</font><br>
@@ -116,7 +129,7 @@ with 김유빈 (연구책임자), 김영아
 <a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=12&pblctListNo=9508&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=2">Link  
   
   <details>
-  <summary markdown="span"><font color="blue">노동시장 불평등 현황과 대책</font><br>    
+  <summary markdown="span"><font color="blue">노동시장 불평등 현황과 대책</font>    
 with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김예슬, 김유선, 윤정향, 김용하, 김동배
 
   </summary>
