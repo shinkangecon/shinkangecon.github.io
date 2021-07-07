@@ -28,7 +28,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
  <br> 
  
  <details>
-  <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications of Goods and Labor Markets</font>
+  <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
   </summary>
     
   | **Abstract**          |
