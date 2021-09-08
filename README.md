@@ -29,7 +29,8 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
  
  <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
-  </summary>
+    
+  <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -150,5 +151,5 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
 
 with Sun Jung Oh(오선정)<br>
 
-<font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), forthcoming (in Korean)</i></b></font></summary>
+<font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font></summary>
  
