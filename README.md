@@ -70,6 +70,21 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Policy Reports (in Korean)
 
+  <details>
+  <summary markdown="span"><font color="blue">출산의 소득탄력성-미시적 이론과 거시적 결과</font><br>
+with 김선빈, 홍재화, 오준석
+    
+  </summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | Kim, Tertilt and Yum (2021)에서 보인 개별 가구소득과 출산 간 양(+)의 관계와 거시시계열 자료에서 관측되는 경제성장과 합계출산율 간 음(-)의 관계를 더 유의깊게 살펴보고 이질적 경제주체 중첩세대 일반균형 모형을 캘리브레이션하여 반사실적 분석을 수행하였음   <br>  
+  
+ </details>
+<a href="https://www.kli.re.kr/kli/rsrchReprtView.do?pblctListNo=9660&key=12">Link  
+  
+  
+  
 <details>
   <summary markdown="span"><font color="blue">생애주기 구직노력과 소득 위험</font>
     
