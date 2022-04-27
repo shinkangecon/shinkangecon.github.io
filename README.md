@@ -78,9 +78,6 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   |:---------------------------|
   | This paper estimates worker-firm fixed effects using the adminstrative National Tax Employer-Employee Matched Panel Data and builds a life-cycle matching model to evaluate the effectiveness of age-dependent fiscal policy. <br>
 
- </details>
-  <br>
-
 ### Policy Reports (in Korean)
 
   <details>
