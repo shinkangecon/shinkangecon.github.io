@@ -55,7 +55,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <br>
 
 ### Work in Progress
-<details>
+
   <font color="blue">Regular and Non-Regular Workers Substitutability and Policy Implications in South Korea</font><br>  
   <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font><br>    
   <font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
