@@ -66,6 +66,11 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <details>
   <br>
   <summary markdown="span"><font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font>    
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | Learning-By-Doing AND Ben-Porath with search friction<br>
     
 <details>
   <br>
