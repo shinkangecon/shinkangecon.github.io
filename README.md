@@ -54,29 +54,6 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper
   <br>
   
-  
-### Work in Progress
-<details>
-  <summary markdown="span"><font color="blue">Regular and Non-Regular Workers Substitutability and Policy Implications in South Korea  
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | While policies of employment for regular workers in South Korea would affect the relative prices between regular and non-regular workers, the substitutability or complementarity between them has not been discussed well in the literature. In this paper, I empirically estimate the elasticity of substitution between them and implement policy experiments using a calibrated heterogeneous firm model with labor adjustment costs. The estimated elasticity of substitution implies that regular and non-regular workers are substitutes. With the large substitutability and labor adjustment costs, the structural model implies that the effect of policies changing relative labor costs would be more crucial than the unconditional tax deduction for equilibrium employment.      <br>
-
-<details>
-  <br>
-  <summary markdown="span"><font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions  <br>
-    
-<details>
-  <br>
-  <summary markdown="span"><font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
-  Financial Support from Korea Institute of Public Finance (KIPF)
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | This paper estimates worker-firm fixed effects using the adminstrative National Tax Employer-Employee Matched Panel Data and builds a life-cycle matching model to evaluate the effectiveness of age-dependent fiscal policy. <br>
 
 ### Policy Reports (in Korean)
 
