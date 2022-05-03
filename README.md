@@ -42,8 +42,9 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <br>
 
  <details>
-  <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>      
-  </summary>
+  <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font> 
+    
+  <font color="black">Revise & Resubmit, <b><i>Macroeconomic Dynamics</i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
