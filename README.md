@@ -77,13 +77,25 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <summary markdown="span"><font color="blue">코로나19 위기 시 고용유지지원제도의 고용효과 </font><br>
  with 김유빈(연구책임자), 김도형, 김지운, 우석진, 최광성, 최충 
     
+  | **Abstract**          |
+  |:---------------------------|
+  | 고용유지지원제도가 근로자의 고용유지에 미친 영향을 고용유지지원금 수혜 집단과 비수혜 집단으로 구분하여 분석 및 고용유지지원제도가 사업체의 고용 및 생존에 미친 단기효과 분석   <br> 
+    
   <details>
   <summary markdown="span"><font color="blue">코로나19 감염 확산이 고용에 미친 영향 - 노동시장 전반에 미친 영향 및 향후 정책방향에 대한 시사점 </font><br>
  with 장인성(연구책임자), 김세움, 윤준현, 길은선, 차경수, 한치록, 황선웅 
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | 코로나19가 노동공급 및 노동수요에 미친 영향 분석 <br> 
   
   <details>
   <summary markdown="span"><font color="blue">조세 및 사회보험제도가 고용형태 선택에 미치는 영향 분석 </font><br>
  with 김문정, 안종석, 홍민기     
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | 조세 및 사회보험제도가 고용형태 선택에 미치는 영향 분석   <br>  
   
   <details>
   <summary markdown="span"><font color="blue">출산의 소득탄력성-미시적 이론과 거시적 결과</font><br>
