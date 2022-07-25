@@ -19,7 +19,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   | I explore the effects of policies that affect relative prices between regular and non-regular workers in South Korea. To this end, I first estimate the constant elasticity of substitution (CES) production function using the Korean workplace level panel data. The implied elasticity of substitution implies that regular and non-regular workers are substitutes. Based on the empirical estimate, I implement policy experiments and counter-factual analysis using the calibrated heterogeneous firm model. The model is rich as it calibrates both firing and hiring costs, which are crucial factors of determining relative prices between regular and non-regular workers. Policy experiments imply that it is crucial to consider the degree of substitution and labor adjustment costs.
 
  </details>
-[Paper (pdf)](RegNonReg_Substitutes_ver1.pdf)
+[Paper (pdf)](RegNonReg_Substitutes_ver1.pdf) /
  <br> 
 
 <details>
@@ -68,7 +68,6 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Work in Progress
 
-  <font color="blue">Regular and Non-Regular Workers Substitutability and Policy Implications in South Korea</font><br>  
   <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font><br>    
   <font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
 
