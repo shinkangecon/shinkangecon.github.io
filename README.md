@@ -72,7 +72,20 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
 
 ### Policy Reports (in Korean)
- 
+  <details>
+  <summary markdown="span"><font color="blue">임금 상승과 물가 상승 간 관계</font><br>
+    
+  </summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | 본 연구는 장기 거시시계열 자료를 활용하여 임금 상승과 물가 상승 간 관계를 실증적으로 분석하였다. 3변수 구조적 벡터자기회귀(Structural Vector Auto-Regression : SVAR) 모형을 통해 물가 상승이 명목임금 상승을 야기하는 것은 비교적 강건하게 발견되었다. 반면에 임금 상승이 물가 상승에 미치는 효과는 물가 상승 수준에 따라 다른 상태의존적일 수 있음을 발견하
+였다. 상태의존적 국소투영법(State-Dependent Local Projection) 분석결과, 물가 상승 수준이 높을 때 임금 상승이 물가 상승에 미치는 효과는 물가 상승 수준이 안정되었을 때보다 양적으
+로 더 클 수 있다는 것을 보였다.   <br>  
+  
+ </details>
+<a href="https://www.kli.re.kr/kli/pdicalView.do?key=19&pblctListNo=9753&schPdicalKnd=%EB%85%B8%EB%8F%99%EB%A6%AC%EB%B7%B0&schPblcateDe=&pageUnit=10&searchCnd=all&searchKrwd=&pageIndex=1">Link <a href="https://github.com/shinkangecon/shinkangecon.github.io/blob/master/WagePrice_Korean_Empirical.pdf">Report(Download)  
+
   <details>
   <summary markdown="span"><font color="blue">출산의 소득탄력성-미시적 이론과 거시적 결과</font><br>
 with 김선빈, 홍재화, 오준석
