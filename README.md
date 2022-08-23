@@ -74,6 +74,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 ### Policy Reports (in Korean)
   <details>
   <summary markdown="span"><font color="blue">임금 상승과 물가 상승 간 관계</font><br>
+ (노동리뷰 2022.08)
     
   </summary>
 
