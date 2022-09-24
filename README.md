@@ -10,7 +10,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 <br>
 
- ### <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io" target="_blank"> [KLI Fertility and Labor Forum]
+ ### <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io" target="_blank"> 2022 KLI Fertility and Labor Forum (Organizing Forum)
 
 <br>
 
