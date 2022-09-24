@@ -10,6 +10,10 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 <br>
 
+ ### <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io" target="_blank"> [KLI Fertility and Labor Forum]
+
+<br>
+
 ### Working Papers
 <details>
   <summary markdown="span"><font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font></summary>
