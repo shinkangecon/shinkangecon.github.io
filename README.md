@@ -31,7 +31,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
     
   with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>
   
-  <font color="black">Revise & Resubmit, <b><i>Macroeconomic Dynamics</i></b></font></summary>
+  <font color="black">Revise & Resubmit (2nd Round), <b><i>Macroeconomic Dynamics</i></b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
