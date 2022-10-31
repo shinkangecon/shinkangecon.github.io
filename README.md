@@ -202,7 +202,7 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
   | This paper constructs and calibrates the structural model with hiring and firing costs to investigate effects of Employment Maintenance Subsidies(EMS, hereafter). To this end, I assume that there is no labor adjustment cost if the entreprenuer gets (un)paid-leave workers back to workplace, while there is hiring cost if they newly hire workers. Using the calibrated model which exploits various novel micro-dataset, I implement interesting counter-factual studies. I find that the EMS reduces variabilities of employment and the intensive margin of firing workers. However, it is hard to find the evidence that the EMS helps to improve the aggregate employment or aggregate output. The tractable structural model in this paper contributes as the model shows the channel how the profit-maximizing firms response to the EMS.<br> 
    
  </details>
-[Paper (pdf)] <a href="http://www.kea.ne.kr/publication/kef/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2509">Journal Link
+[Paper (pdf)] <a href="http://www.kea.ne.kr/publication/kef/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2509">Journal Link<br>
  
    <br>
    
