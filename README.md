@@ -195,7 +195,7 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
   <details>
   <summary markdown="span"><font color="blue">Investigating Effects of Employment Maintenance Subsidies Using a Heterogeneous Firm-Model (구조모형을 통해 살펴본 고용유지지원제도가 고용 및 거시경제에 미치는 효과 분석)</font><br>
 
-<font color="black"> <b><i>The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font></summary>
+<font color="black"> <b><i>The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font>
 
 
   <details>
