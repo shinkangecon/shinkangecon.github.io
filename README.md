@@ -194,8 +194,7 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
   |:---------------------------|
   | I explore the effects of policies that affect relative prices between regular and non-regular workers in South Korea. To this end, I first estimate the constant elasticity of substitution (CES) production function using the Korean workplace level panel data. The implied elasticity of substitution implies that regular and non-regular workers are substitutes. Based on the empirical estimate, I implement policy experiments and counter-factual analysis using the calibrated heterogeneous firm model. The model is rich as it calibrates both firing and hiring costs, which are crucial factors of determining relative prices between regular and non-regular workers. Policy experiments imply that it is crucial to consider the degree of substitution and labor adjustment costs.
 
- </details>
-   
+ </details>   
 <a href="http://www.kea.ne.kr/publication/kef/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2509">Journal Link<br>
  
    <br>
@@ -211,6 +210,5 @@ We combined administrative and firm-level data to analyze the policy effects usi
 As such, the employment effect of the government's R&D investment policy appears differently depending on the firm characteristics. Because the ultimate purpose of the R&D investment policy is to strengthen national competitiveness, it is necessary to ensure that the R&D budget can be continuously supported to private companies that can contribute significantly to industrial growth in the long term, even though the effect of job creation appears somewhat small in the short term. To this end, it is important to separately manage the goals and areas of the government's R&D investment so that both firms that can create jobs in the short term and firms that contribute to industrial development and increase employment in the long run can be benefited from the R&D investment policy.
 
  </details>
-
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002735321">Journal Link<br>
  
