@@ -196,7 +196,7 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
    
   <details>
   <summary markdown="span"><font color="blue">Analyzing the employment impact of the R&D investment policies of the pharmaceutical manufacturing industry : Differential effects by firm characteristics with Sun Jung Oh (의약품제조업 R&D 투자 정책의 고용효과 분석, 공저자: 오선정)</font><br>
-<font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font>
+<font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font><br>
 
-  </summary>
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002735321">Journal Link<br>
  
