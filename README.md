@@ -189,12 +189,15 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
   <details>
   <summary markdown="span"><font color="blue">Investigating Effects of Employment Maintenance Subsidies Using a Heterogeneous Firm-Model (구조모형을 통해 살펴본 고용유지지원제도가 고용 및 거시경제에 미치는 효과 분석)</font><br>
 <font color="black"> <b><i>The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font><br>
+   
 </details>
 [Paper (pdf)] <a href="http://www.kea.ne.kr/publication/kef/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2509">Journal Link<br>
  
    <br>
    
-  <details>
+<details>
   <font color="blue">Analyzing the employment impact of the R&D investment policies of the pharmaceutical manufacturing industry : Differential effects by firm characteristics with Sun Jung Oh (의약품제조업 R&D 투자 정책의 고용효과 분석, 공저자: 오선정)</font><br>
 <font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font></summary>
+
+   </details>
  
