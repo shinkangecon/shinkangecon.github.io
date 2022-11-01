@@ -202,7 +202,15 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
    
   <details>
   <summary markdown="span"><font color="blue">Analyzing the employment impact of the R&D investment policies of the pharmaceutical manufacturing industry : Differential effects by firm characteristics with Sun Jung Oh (의약품제조업 R&D 투자 정책의 고용효과 분석, 공저자: 오선정)</font><br>
-<font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font><br>
+<font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | In the 2019 Biohealth Industry Innovation Strategy, the government announced plans to expand the government's R&D investment in the Biohealth sector from 2.6 trillion Won to more than 4 trillion Won per year by 2025. One of the three goals of the 2019 Innovation Strategy is to create 300,000 new jobs, and this strategy focuses on innovative medicines. To predict the effect of the R&D investment policy in the 2019 Innovation Strategy and draw policy implications for the improvement of R&D investment policies, this study analyzes the employment impact of the 2011-2018 R&D investment policies in the pharmaceutical manufacturing industry.
+We combined administrative and firm-level data to analyze the policy effects using the panel fixed-effect model. The main results suggest that the government's R&D investment increased employment. To increase employment, increasing the absolute amount of labor costs may be more efficient than increasing the ratio of labor costs to the total research expenditure. In addition, we found suggestive evidence that the employment effect of government R&D investment could be greater in firms directly linked to government R&D investment. 
+As such, the employment effect of the government's R&D investment policy appears differently depending on the firm characteristics. Because the ultimate purpose of the R&D investment policy is to strengthen national competitiveness, it is necessary to ensure that the R&D budget can be continuously supported to private companies that can contribute significantly to industrial growth in the long term, even though the effect of job creation appears somewhat small in the short term. To this end, it is important to separately manage the goals and areas of the government's R&D investment so that both firms that can create jobs in the short term and firms that contribute to industrial development and increase employment in the long run can be benefited from the R&D investment policy.
+
+ </details>
 
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002735321">Journal Link<br>
  
