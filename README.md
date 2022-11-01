@@ -188,7 +188,13 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
 
   <details>
   <summary markdown="span"><font color="blue">Investigating Effects of Employment Maintenance Subsidies Using a Heterogeneous Firm-Model (구조모형을 통해 살펴본 고용유지지원제도가 고용 및 거시경제에 미치는 효과 분석)</font><br>
-<font color="black"> <b><i>The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font><br>
+<font color="black"> <b><i>The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | I explore the effects of policies that affect relative prices between regular and non-regular workers in South Korea. To this end, I first estimate the constant elasticity of substitution (CES) production function using the Korean workplace level panel data. The implied elasticity of substitution implies that regular and non-regular workers are substitutes. Based on the empirical estimate, I implement policy experiments and counter-factual analysis using the calibrated heterogeneous firm model. The model is rich as it calibrates both firing and hiring costs, which are crucial factors of determining relative prices between regular and non-regular workers. Policy experiments imply that it is crucial to consider the degree of substitution and labor adjustment costs.
+
+ </details>
    
 <a href="http://www.kea.ne.kr/publication/kef/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2509">Journal Link<br>
  
