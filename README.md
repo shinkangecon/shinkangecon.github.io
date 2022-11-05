@@ -87,7 +87,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   | 코로나19 시기의 경기불황 기간 이후 미국은 역사적으로 높은 인플레이션과 함께 높은 명목임금 상승률 및 실업자 한 명당 빈 일자리 수 비율인 노동시장 탄력도(labor market tightness)가 관측되고 있다. 기존 연구와 최근 연구 모두 인플레이션 및 기대 인플레이션이 높은 시기에 명목임금 상승이 물가에 전가효과(wage-price passthrough)가 더 클 수 있음을 보인다. 우려되는 임금 상승 · 물가 상승 간 악순환(wage – price spiral)을 막기 위해서는 각국 중앙은행이 기대 인플레이션을 안정시키는 것이 다른 시기보다 더 중요할 수 있다.  
   
  </details>
-<a href="https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008">Link 
+<a href="https://github.com/shinkangecon/shinkangecon.github.io/blob/master/Global_Issue.pdf">Report(Download) 
 
   <details>
   <summary markdown="span"><font color="blue">임금 상승과 물가 상승 간 관계</font><br>
