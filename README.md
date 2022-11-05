@@ -77,8 +77,8 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Policy Reports (in Korean)
   <details>
-  <summary markdown="span"><font color="blue">미국 노동시장 동향과 물가 동향([Global Issue Brief] Vol.3 글로벌 인플레이션 이슈와 진단)</font><br>
- (노동리뷰 2022.08)
+  <summary markdown="span"><font color="blue">미국 노동시장 동향과 물가 동향</font><br>
+ ([Global Issue Brief] Vol.3 글로벌 인플레이션 이슈와 진단)
     
   </summary>
 
