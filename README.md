@@ -77,6 +77,19 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Policy Reports (in Korean)
   <details>
+  <summary markdown="span"><font color="blue">미국 노동시장 동향과 물가 동향([Global Issue Brief] Vol.3 글로벌 인플레이션 이슈와 진단)</font><br>
+ (노동리뷰 2022.08)
+    
+  </summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | 코로나19 시기의 경기불황 기간 이후 미국은 역사적으로 높은 인플레이션과 함께 높은 명목임금 상승률 및 실업자 한 명당 빈 일자리 수 비율인 노동시장 탄력도(labor market tightness)가 관측되고 있다. 기존 연구와 최근 연구 모두 인플레이션 및 기대 인플레이션이 높은 시기에 명목임금 상승이 물가에 전가효과(wage-price passthrough)가 더 클 수 있음을 보인다. 우려되는 임금 상승 · 물가 상승 간 악순환(wage – price spiral)을 막기 위해서는 각국 중앙은행이 기대 인플레이션을 안정시키는 것이 다른 시기보다 더 중요할 수 있다.  
+  
+ </details>
+<a href="https://www.nrc.re.kr/board.es?mid=a10301000000&bid=0008">Link 
+
+  <details>
   <summary markdown="span"><font color="blue">임금 상승과 물가 상승 간 관계</font><br>
  (노동리뷰 2022.08)
     
@@ -84,9 +97,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
   | **Abstract**          |
   |:---------------------------|
-  | 본 연구는 장기 거시시계열 자료를 활용하여 임금 상승과 물가 상승 간 관계를 실증적으로 분석하였다. 3변수 구조적 벡터자기회귀(Structural Vector Auto-Regression : SVAR) 모형을 통해 물가 상승이 명목임금 상승을 야기하는 것은 비교적 강건하게 발견되었다. 반면에 임금 상승이 물가 상승에 미치는 효과는 물가 상승 수준에 따라 다른 상태의존적일 수 있음을 발견하
-였다. 상태의존적 국소투영법(State-Dependent Local Projection) 분석결과, 물가 상승 수준이 높을 때 임금 상승이 물가 상승에 미치는 효과는 물가 상승 수준이 안정되었을 때보다 양적으
-로 더 클 수 있다는 것을 보였다.   
+  | 본 연구는 장기 거시시계열 자료를 활용하여 임금 상승과 물가 상승 간 관계를 실증적으로 분석하였다. 3변수 구조적 벡터자기회귀(Structural Vector Auto-Regression : SVAR) 모형을 통해 물가 상승이 명목임금 상승을 야기하는 것은 비교적 강건하게 발견되었다. 반면에 임금 상승이 물가 상승에 미치는 효과는 물가 상승 수준에 따라 다른 상태의존적일 수 있음을 발견하였다. 상태의존적 국소투영법(State-Dependent Local Projection) 분석결과, 물가 상승 수준이 높을 때 임금 상승이 물가 상승에 미치는 효과는 물가 상승 수준이 안정되었을 때보다 양적으로 더 클 수 있다는 것을 보였다.   
   
  </details>
 <a href="https://www.kli.re.kr/kli/pdicalView.do?key=19&pblctListNo=9753&schPdicalKnd=%EB%85%B8%EB%8F%99%EB%A6%AC%EB%B7%B0&schPblcateDe=&pageUnit=10&searchCnd=all&searchKrwd=&pageIndex=1">Link <a href="https://github.com/shinkangecon/shinkangecon.github.io/blob/master/WagePrice_Korean_Empirical.pdf"> / Report(Download)  
