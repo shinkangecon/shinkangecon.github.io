@@ -15,7 +15,9 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Working Papers
 <details>
-  <summary markdown="span"><font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font></summary>
+  <summary markdown="span"><font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font>
+  
+  <font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font></summary>
     
   | **Abstract**          |
   |:---------------------------|
