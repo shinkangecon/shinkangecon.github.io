@@ -71,7 +71,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   
  </details>
 [Paper (pdf)](EUMP_KP_revision.pdf)  /
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper / [Paper (pdf, earlier working paper)](KP1.pdf)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper
  <br> 
 
 ### Work in Progress
