@@ -63,7 +63,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
     
   with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>
   
-  <b><i>Macroeconomic Dynamics (accepted)</i></b></font></summary>
+  <font color="black"><i>Forthcoming</i> <b>Macroeconomic Dynamics</b></font></summary>
   
   | **Abstract**          |
   |:---------------------------|
