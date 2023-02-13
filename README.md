@@ -28,22 +28,6 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4197008">SSRN Working Paper
  <br> 
 
-<details>
-  <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font> 
-    
-  with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>
-  
-  <font color="black">Revise & Resubmit (2nd Round), <b><i>Macroeconomic Dynamics</i></b></font></summary>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | In this paper, we empirically explore the endogeneity of uncertainty and the interaction between different types of uncertainty and monetary policy using a shock-restricted vector-autoregression model. We find that a contractionary monetary policy shock reduces financial uncertainty, opposite to Bekaert et al. (2013), while at the same time it also heightens real uncertainty. This discrepancy arises because the model allows endogenous shifts in uncertainty. We also show that endogenous responses of uncertainty amplify the effects of monetary policy on real activity.
-  
- </details>
-[Paper (pdf)](EUMP_KP_revision.pdf)  /
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper / [Paper (pdf, earlier working paper)](KP1.pdf)
- <br> 
- 
  <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
     
@@ -71,6 +55,24 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 [Paper (pdf)](JobSearchProfile.pdf)  /
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper
   <br>
+
+### Publications (including accepted)
+
+<details>
+  <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font> 
+    
+  with <a href="https://sites.google.com/site/econkypark/home/" target="_blank">Kwangyong Park</a>
+  
+  <b><i>Macroeconomic Dynamics (accepted)</i></b></font></summary>
+  
+  | **Abstract**          |
+  |:---------------------------|
+  | In this paper, we empirically explore the endogeneity of uncertainty and the interaction between different types of uncertainty and monetary policy using a shock-restricted vector-autoregression model. We find that a contractionary monetary policy shock reduces financial uncertainty, opposite to Bekaert et al. (2013), while at the same time it also heightens real uncertainty. This discrepancy arises because the model allows endogenous shifts in uncertainty. We also show that endogenous responses of uncertainty amplify the effects of monetary policy on real activity.
+  
+ </details>
+[Paper (pdf)](EUMP_KP_revision.pdf)  /
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper / [Paper (pdf, earlier working paper)](KP1.pdf)
+ <br> 
 
 ### Work in Progress
 
