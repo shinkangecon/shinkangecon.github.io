@@ -81,6 +81,31 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Policy Reports (in Korean)
   <details>
+  <summary markdown="span"><font color="blue">노동시장 탐색 마찰과 인적자본축적 동학</font><br>
+    
+  </summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | 노동시장 탐색마찰이 존재하는 경제에서 구직상태일 때는 Ben-Porath로, 취업상태일 때는 Learning-By-Doing으로 인적자본을 축적할 수 있는 구조모형을 캘리브레이션하여 구직급여의 하한액, 지급기간, 정액식 지출증가 효과를 분석하였음   <br>  
+  
+ </details>
+<a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=12&pblctListNo=9810&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=2">Link  
+  
+  <details>
+  <summary markdown="span"><font color="blue">청년과 중고령 세대 간 고용대체 관계 연구</font><br>
+  with 김세움(연구책임자), 윤윤규
+    
+  </summary>
+
+  | **Abstract**          |
+  |:---------------------------|
+  | 제4장 "세대 간 노동수요 대체탄력성 분석" 수행. 집계시계열 자료와 사업체패널조사를 활용하여 세대 간 대체.보완관계 분석. 사업체패널조사를 활용한 분석에서는 CES 생산함수를 추정하였음   <br>  
+  
+ </details>
+<a href="https://www.kli.re.kr/kli/rsrchReprtView.do?key=12&pblctListNo=9827&schRsrchRealmNo=&schPblcateDe=&mainPageUnit=10&searchCnd=all&searchKrwd=&mainPageIndex=1">Link  
+  
+  <details>
   <summary markdown="span"><font color="blue">미국 노동시장 동향과 물가 동향</font><br>
  ([Global Issue Brief] Vol.3 글로벌 인플레이션 이슈와 진단)
     
