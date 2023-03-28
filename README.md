@@ -6,7 +6,7 @@ Email: shinkang@kli.re.kr or shinkangecon@gmail.com
 
 Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
-### [Curriculum Vitae (PDF, Updated in Sep. 2022)](CV_Shin.pdf)
+### [Curriculum Vitae (PDF, Updated in March 2023)](CV_Shin.pdf)
 
 
  ### <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io" target="_blank"> 2022 KLI Fertility and Labor Forum (Organizing Forum)
