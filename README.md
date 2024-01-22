@@ -80,9 +80,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
 
 ### Publications in Korean
-<details>
-  <summary markdown="span"><font color="blue">한국 장기 임금 자료를 활용한 임금 – 물가 악순환(Wage – Price Spiral) 분석 (경제학연구, 게재예정)</font> 
- <br> 
+
    
 ### Policy Reports (in Korean)
   <details>
@@ -232,6 +230,10 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
 <br>
 
 ### Publications in Korean
+
+  <details>
+  <summary markdown="span"><font color="blue">한국 장기 임금 자료를 활용한 임금 – 물가 악순환(Wage – Price Spiral) 분석 (경제학연구, 게재예정)</font> 
+ <br> 
 
   <details>
   <summary markdown="span"><font color="blue">Investigating Effects of Employment Maintenance Subsidies Using a Heterogeneous Firm-Model (구조모형을 통해 살펴본 고용유지지원제도가 고용 및 거시경제에 미치는 효과 분석)</font><br>
