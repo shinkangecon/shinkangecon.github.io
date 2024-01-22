@@ -79,11 +79,10 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font><br>    
   <font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
 
-### Working Paper in Korean
+### Publications in Korean
 <details>
-  <summary markdown="span"><font color="blue">한국 장기 임금 자료를 활용한 임금 – 물가 악순환(Wage – Price Spiral) 분석 (R&R in 경제학연구)</font> 
+  <summary markdown="span"><font color="blue">한국 장기 임금 자료를 활용한 임금 – 물가 악순환(Wage – Price Spiral) 분석 (경제학연구, 게재예정)</font> 
  <br> 
-
    
 ### Policy Reports (in Korean)
   <details>
