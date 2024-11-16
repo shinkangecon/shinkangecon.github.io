@@ -96,7 +96,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
    
    <summary markdown="span"><font color="blue"> 재정정책과 누진세의 거시경제적 함의점: 노동시장 동학을 중심으로</font> with <a href="https://sites.google.com/site/sunbinkim/" target="_blank">김선빈</a>, <a href="https://econ.dongguk.edu/professor/list?professor_haggwa_type=PROFH_019&professor_type=PROF_006" target="_blank">한종석</a>, <a href="https://sites.google.com/site/eunseongmaecon/eunseong-ma" target="_blank">마은성</a><br>
    <font color="black"> <b><i> 2023, 한국노동연구원 (Korea Labor Institute) </i></b></font>   
-   <a href="https://www.kli.re.kr/kli/rschRptpView.es?pblct_sn=9998&mid=a10102060000&nPage=1&sch_yr=&sch_type=&sch_keyword=%EB%88%84%EC%A7%84%EC%84%B8&sch_rsch_fld_no=">Link <br>   
+   <a href="https://www.kli.re.kr/kli/rschRptpView.es?pblct_sn=9998&mid=a10102060000&nPage=1&sch_yr=&sch_type=&sch_keyword=%EB%88%84%EC%A7%84%EC%84%B8&sch_rsch_fld_no=">Link   
     
    <summary markdown="span"><font color="blue"> AI 데이터 기반 재정경제 디지털트윈 플랫폼 개발 with 김유빈, 방형준</font></summary>
    <font color="black"> <b><i> 2022-2023, 한국노동연구원 (Korea Labor Institute). 한국전자통신연구원(ETRI) 위탁연구사업 </i></b></font><br>    
