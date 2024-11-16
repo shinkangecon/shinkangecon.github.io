@@ -233,17 +233,14 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
 
 ### Publications in Korean
 
-  <details>
   <summary markdown="span"><font color="blue">Empirical Investigation of Wage – Price Spiral using long-time series wage data (한국 장기 임금 자료를 활용한 임금 – 물가 악순환(Wage – Price Spiral) 분석)</font><br> 
  <font color="black"> <b><i> 2024, The Korean Journal of Economic Studies (경제학연구), No 72(1), 141 − 173 </i></b></font><br>
  <a href="https://www.kea.ne.kr/publication/kjes/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2598">Journal Link<br>
 
-  <details>
   <summary markdown="span"><font color="blue">Investigating Effects of Employment Maintenance Subsidies Using a Heterogeneous Firm-Model (구조모형을 통해 살펴본 고용유지지원제도가 고용 및 거시경제에 미치는 효과 분석)</font><br>
 <font color="black"> <b><i> 2022, The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font></summary>
 <a href="http://www.kea.ne.kr/publication/kef/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2509">Journal Link<br>
  
-  <details>
   <summary markdown="span"><font color="blue">Analyzing the employment impact of the R&D investment policies of the pharmaceutical manufacturing industry : Differential effects by firm characteristics with Sun Jung Oh (의약품제조업 R&D 투자 정책의 고용효과 분석, 공저자: 오선정)</font><br>
 <font color="black"> <b><i>2021, The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font></summary>
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002735321">Journal Link<br>
