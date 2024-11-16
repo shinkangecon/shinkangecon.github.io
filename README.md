@@ -246,8 +246,10 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002735321">Journal Link<br>
 
 ### Publications in Data-Science
-   <summary markdown="span"><font color="blue"> <a href="https://dl.acm.org/doi/10.1145/3627673.3680074">Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP (Click this for a link)</a></font> with <a href="https://orcid.org/0000-0003-4904-7144" target="_blank">Seonkyu Lim</a>, <a href="https://www.jeongwhanchoi.me/" target="_blank">Jeongwhan Choi</a>, <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>, <a href="https://sites.google.com/view/syoon/" target="_blank">Sang-Ha Yoon</a>, <a href="https://ksp.etri.re.kr/ksp/user/search?page=7&size=60&direction=ASC&sort=korNm" target="_blank">Young Min Kim</a> and <a href="https://scholar.google.com/citations?user=w_PFIMMAAAAJ&hl=ko" target="_blank">Hyunjoong Kang</a><br>
-  <font color="black"> <b><i>In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i></b></font>
+
+   <summary markdown="span"><font color="blue">Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP (Click this for a link)</a></font> with <a href="https://orcid.org/0000-0003-4904-7144" target="_blank">Seonkyu Lim</a>, <a href="https://www.jeongwhanchoi.me/" target="_blank">Jeongwhan Choi</a>, <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>, <a href="https://sites.google.com/view/syoon/" target="_blank">Sang-Ha Yoon</a>, <a href="https://ksp.etri.re.kr/ksp/user/search?page=7&size=60&direction=ASC&sort=korNm" target="_blank">Young Min Kim</a> and <a href="https://scholar.google.com/citations?user=w_PFIMMAAAAJ&hl=ko" target="_blank">Hyunjoong Kang</a><br>
+  <font color="black"> <b><i>In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i></b></font></summary>
+  <a href="https://dl.acm.org/doi/10.1145/3627673.3680074">Journal Link<br> 
 
 
  
