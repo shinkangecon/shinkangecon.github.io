@@ -88,7 +88,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
    <font color="blue"> 재정승수효과 추정에 관한 연구: 시군구 단위 분석을 중심으로 (Working Report)</font> with <a href="https://hwanoonglee.com/" target="_blank">이환웅</a>
    <font color="black"> <b><i> 2024, 한국조세재정연구원 (Korea Institute of Public Finance) </i></b></font><br>
    
-   <font color="blue"> 거시모형을 통한 노동시장 미시적 기반 이해(Working Report)</font> with <a href="https://www.kli.re.kr/kli/empView.es?mid=a10502020000&emp_cd=17080035&dept_cd=14000&up_dept_cd=0" target="_blank">방형준(연구책임자)</a> 
+   <font color="blue"> 거시모형을 통한 노동시장 미시적 기반 이해(Working Report)</font> with <a href="https://www.kli.re.kr/kli/empView.es?mid=a10502020000&emp_cd=17080035&dept_cd=14000&up_dept_cd=0" target="_blank">방형준(연구책임자)</a>
    <font color="black"> <b><i> 2024, 한국노동연구원 (Korea Labor Institute) </i></b></font><br>   
    
    <summary markdown="span"><font color="blue"> 주요국의 탄소중립 설비투자 조세지원제도 연구 with 송은주, 노수경</font></summary>
