@@ -235,36 +235,21 @@ with 윤윤규(연구책임자), 장인성, 최세림, 김현경, 이아영, 김
 
   <details>
   <summary markdown="span"><font color="blue">Empirical Investigation of Wage – Price Spiral using long-time series wage data (한국 장기 임금 자료를 활용한 임금 – 물가 악순환(Wage – Price Spiral) 분석)</font><br> 
- <font color="black"> <b><i>The Korean Journal of Economic Studies (경제학연구) 게재예정</i></b></font><br>
+ <font color="black"> <b><i> 2024, The Korean Journal of Economic Studies (경제학연구), No 72(1), 141 − 173 </i></b></font><br>
+ <a href="https://www.kea.ne.kr/publication/kjes/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2598">Journal Link<br>
 
   <details>
   <summary markdown="span"><font color="blue">Investigating Effects of Employment Maintenance Subsidies Using a Heterogeneous Firm-Model (구조모형을 통해 살펴본 고용유지지원제도가 고용 및 거시경제에 미치는 효과 분석)</font><br>
-<font color="black"> <b><i>The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font></summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | I explore the effects of policies that affect relative prices between regular and non-regular workers in South Korea. To this end, I first estimate the constant elasticity of substitution (CES) production function using the Korean workplace level panel data. The implied elasticity of substitution implies that regular and non-regular workers are substitutes. Based on the empirical estimate, I implement policy experiments and counter-factual analysis using the calibrated heterogeneous firm model. The model is rich as it calibrates both firing and hiring costs, which are crucial factors of determining relative prices between regular and non-regular workers. Policy experiments imply that it is crucial to consider the degree of substitution and labor adjustment costs.
-
- </details>   
+<font color="black"> <b><i> 2022, The Korean Economic Forum (한국경제포럼), No 15(3), p.87 - 116 (in Korean)</i></b></font></summary>
 <a href="http://www.kea.ne.kr/publication/kef/article/read?page=1&perPageNum=10&searchType&keyword&sortType&sortOrder&id=2509">Journal Link<br>
  
-   <br>
-   
   <details>
   <summary markdown="span"><font color="blue">Analyzing the employment impact of the R&D investment policies of the pharmaceutical manufacturing industry : Differential effects by firm characteristics with Sun Jung Oh (의약품제조업 R&D 투자 정책의 고용효과 분석, 공저자: 오선정)</font><br>
-<font color="black"> <b><i>The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font></summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | In the 2019 Biohealth Industry Innovation Strategy, the government announced plans to expand the government's R&D investment in the Biohealth sector from 2.6 trillion Won to more than 4 trillion Won per year by 2025. One of the three goals of the 2019 Innovation Strategy is to create 300,000 new jobs, and this strategy focuses on innovative medicines. To predict the effect of the R&D investment policy in the 2019 Innovation Strategy and draw policy implications for the improvement of R&D investment policies, this study analyzes the employment impact of the 2011-2018 R&D investment policies in the pharmaceutical manufacturing industry.
-We combined administrative and firm-level data to analyze the policy effects using the panel fixed-effect model. The main results suggest that the government's R&D investment increased employment. To increase employment, increasing the absolute amount of labor costs may be more efficient than increasing the ratio of labor costs to the total research expenditure. In addition, we found suggestive evidence that the employment effect of government R&D investment could be greater in firms directly linked to government R&D investment. 
-As such, the employment effect of the government's R&D investment policy appears differently depending on the firm characteristics. Because the ultimate purpose of the R&D investment policy is to strengthen national competitiveness, it is necessary to ensure that the R&D budget can be continuously supported to private companies that can contribute significantly to industrial growth in the long term, even though the effect of job creation appears somewhat small in the short term. To this end, it is important to separately manage the goals and areas of the government's R&D investment so that both firms that can create jobs in the short term and firms that contribute to industrial development and increase employment in the long run can be benefited from the R&D investment policy.
-
- </details>
+<font color="black"> <b><i>2021, The Korean Association for Policy Studies (한국정책학회보), No 30(2) (in Korean)</i></b></font></summary>
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002735321">Journal Link<br>
 
 ### Publications in Data-Science
-  <font color="blue"> <a href="https://dl.acm.org/doi/10.1145/3627673.3680074">Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP</a></font> with <a href="https://orcid.org/0000-0003-4904-7144" target="_blank">Seonkyu Lim</a>, <a href="https://www.jeongwhanchoi.me/" target="_blank">Jeongwhan Choi</a>, <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>, <a href="https://sites.google.com/view/syoon/" target="_blank">Sang-Ha Yoon</a>, <a href="https://ksp.etri.re.kr/ksp/user/search?page=7&size=60&direction=ASC&sort=korNm" target="_blank">Young Min Kim</a> and <a href="https://scholar.google.com/citations?user=w_PFIMMAAAAJ&hl=ko" target="_blank">Hyunjoong Kang</a><br>
+   <summary markdown="span"><font color="blue"> <a href="https://dl.acm.org/doi/10.1145/3627673.3680074">Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP (Click this for a link)</a></font> with <a href="https://orcid.org/0000-0003-4904-7144" target="_blank">Seonkyu Lim</a>, <a href="https://www.jeongwhanchoi.me/" target="_blank">Jeongwhan Choi</a>, <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>, <a href="https://sites.google.com/view/syoon/" target="_blank">Sang-Ha Yoon</a>, <a href="https://ksp.etri.re.kr/ksp/user/search?page=7&size=60&direction=ASC&sort=korNm" target="_blank">Young Min Kim</a> and <a href="https://scholar.google.com/citations?user=w_PFIMMAAAAJ&hl=ko" target="_blank">Hyunjoong Kang</a><br>
   <font color="black"> <b><i>In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i></b></font>
 
 
