@@ -6,7 +6,7 @@ Email: shinkang@kipf.re.kr or shinkangecon@gmail.com
 
 Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
-### [Curriculum Vitae (PDF, Updated in May 2024)](CV_Shin.pdf)
+### [Curriculum Vitae (PDF, Updated in Nov. 2024)](CV_ShinHyuck Kang.pdf)
 
 
  ### <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io" target="_blank"> 2022 KLI Fertility and Labor Forum (Organizing Forum)
