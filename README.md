@@ -56,7 +56,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper
   <br>
 
-### Publications (including accepted)
+### Publications
 
 <details>
   <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font> 
@@ -75,13 +75,15 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
  <br> 
 
 ### Work in Progress
+  <font color="blue"> Regional and Aggregate Fiscal Multipliers in Korea</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a>  
+  <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font>    
+  <font color="blue"> Functional Analysis of Government Spending</font> with <a href="https://econ-seunghee.github.io/" target="_blank">Seunghee Lee</a>
+  <font color="blue"> The Aggregate and Regional Effects of Minimum Wage Changes</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a> and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a>
+  <font color="blue"> Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
 
-  <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font><br>    
-  <font color="blue">Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
+### Working Paper in Korean
+  <font color="blue"> 연령 간 대체탄력성 추정에 관한 연구(한국경제의 분석 패널 수정작업 중)</font>
 
-### Publications in Korean
-
-   
 ### Policy Reports (in Korean)
   <details>
   <summary markdown="span"><font color="blue">노동시장 탐색 마찰과 인적자본축적 동학</font><br>
@@ -260,4 +262,10 @@ As such, the employment effect of the government's R&D investment policy appears
 
  </details>
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002735321">Journal Link<br>
+
+### Publications in Data-Science
+  <font color="blue"> <a href="https://dl.acm.org/doi/10.1145/3627673.3680074">Bridging Dynamic Factor Models and Neural Controlled Differential Equations for Nowcasting GDP</a></font> with <a href="https://orcid.org/0000-0003-4904-7144" target="_blank">Seonkyu Lim</a>, <a href="https://www.jeongwhanchoi.me/" target="_blank">Jeongwhan Choi</a>, <a href="https://sites.google.com/view/noseong" target="_blank">Noseong Park</a>, <a href="https://sites.google.com/view/syoon/" target="_blank">Sang-Ha Yoon</a>, <a href="https://ksp.etri.re.kr/ksp/user/search?page=7&size=60&direction=ASC&sort=korNm" target="_blank">Young Min Kim</a> and <a href="https://scholar.google.com/citations?user=w_PFIMMAAAAJ&hl=ko" target="_blank">Hyunjoong Kang</a><br>
+  <font color="black"> <b><i>In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management (CIKM)</i></b></font>
+
+
  
