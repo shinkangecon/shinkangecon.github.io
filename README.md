@@ -85,8 +85,36 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <font color="blue"> 연령 간 대체탄력성 추정에 관한 연구(한국경제의 분석 패널 수정작업 중)</font>
 
 ### Policy Reports (in Korean)
-
-
+   <font color="blue"> 재정승수효과 추정에 관한 연구: 시군구 단위 분석을 중심으로 (Working Report)</font> with <a href="https://hwanoonglee.com/" target="_blank">이환웅</a>
+   <font color="black"> <b><i> 2024, 한국조세재정연구원 (Korea Institute of Public Finance) </i></b></font>
+   
+   <font color="blue"> 거시모형을 통한 노동시장 미시적 기반 이해(Working Report)</font> with <a href="https://www.kli.re.kr/kli/empView.es?mid=a10502020000&emp_cd=17080035&dept_cd=14000&up_dept_cd=0" target="_blank">방형준(연구책임자)</a> 
+   <font color="black"> <b><i> 2024, 한국노동연구원 (Korea Labor Institute) </i></b></font>   
+   
+   <summary markdown="span"><font color="blue"> 주요국의 탄소중립 설비투자 조세지원제도 연구 with 송은주, 노수경)</font></summary>
+   <font color="black"> <b><i> 2024, 한국조세재정연구원 (Korea Institute of Public Finance) </i></b></font>
+   
+   <summary markdown="span"><font color="blue"> 재정정책과 누진세의 거시경제적 함의점: 노동시장 동학을 중심으로</font> with <a href="https://sites.google.com/site/sunbinkim/" target="_blank">김선빈</a>, <a href="https://econ.dongguk.edu/professor/list?professor_haggwa_type=PROFH_019&professor_type=PROF_006" target="_blank">한종석</a>, <a href="https://sites.google.com/site/eunseongmaecon/eunseong-ma" target="_blank">마은성</a>
+   <font color="black"> <b><i> 2023, 한국노동연구원 (Korea Labor Institute) </i></b></font>   
+   <a href="https://www.kli.re.kr/kli/rschRptpView.es?pblct_sn=9998&mid=a10102060000&nPage=1&sch_yr=&sch_type=&sch_keyword=%EB%88%84%EC%A7%84%EC%84%B8&sch_rsch_fld_no=">Link    
+    
+   <summary markdown="span"><font color="blue">  AI데이터 기반 재정경제 디지털트윈 플랫폼 개발 </font></summary> with 김유빈, 방형준
+   <font color="black"> <b><i> 2022-2023, 한국노동연구원 (Korea Labor Institute). 한국전자통신연구원(ETRI) 위탁연구사업 </i></b></font>    
+   
+   <summary markdown="span"><font color="blue"> 노동시장 분석센터 위탁사업</font></summary>
+   <font color="black"> <b><i> 2023, 한국노동연구원 (Korea Labor Institute). 고용노동부 위탁연구사업 </i></b></font>    
+   
+   <summary markdown="span"><font color="blue">  2024년 국세수입 전망을 위한 노동시장 전망</font></summary>
+   <font color="black"> <b><i> 2023, 한국노동연구원 (Korea Labor Institute). 한국조세재정연구원 용역 </i></b></font> 
+   
+   <summary markdown="span"><font color="blue"> 고용보험기금 재정추계 연구</font></summary> with 장인성(연구책임자), 손연정, 황선웅
+   <font color="black"> <b><i> 2023, 한국노동연구원 (Korea Labor Institute). 고용노동부 위탁연구사업 </i></b></font>  
+   
+   <summary markdown="span"><font color="blue"> 연구회 기획 협동연구「산업 및 직종별 인력수급전망과 외국인력 수요 연구」</font></summary> with 이상돈,정지운,길은선,조은교,박상수,이은창,이임자,김동근,김재진,이용호,최민철,김지현,전현희,채단비,나정현,고영선,엄진영,마상진,박광배,박영범,어수봉,노용진,박철성,주수인,신운철
+   <font color="black"> <b><i> 2023, 한국노동연구원 (Korea Labor Institute). 경제인문사회연구회 </i></b></font>  
+   <summary markdown="span"><font color="blue"> 정부재정사업 일자리창출효과 연구 </font></summary> with <a href="https://jiwoonkim.weebly.com/" target="_blank">김지운</a>, <a href="https://hwanoonglee.com/" target="_blank">이환웅</a>
+   <font color="black"> <b><i> 2023, 한국노동연구원 (Korea Labor Institute) </i></b></font>  
+    
   <summary markdown="span"><font color="blue">노동시장 탐색 마찰과 인적자본축적 동학</font><br>
 <font color="black"> <b><i> 2022, 한국노동연구원 (Korea Labor Institute) </i></b></font></summary>   
 <a href="https://www.kli.re.kr/kli/rschRptpView.es?pblct_sn=9810&mid=a10102060000&nPage=1&sch_yr=&sch_type=&sch_keyword=%EB%85%B8%EB%8F%99%EC%8B%9C%EC%9E%A5%20%ED%83%90%EC%83%89%20%EB%A7%88%EC%B0%B0%EA%B3%BC%20%EC%9D%B8%EC%A0%81%EC%9E%90%EB%B3%B8%EC%B6%95%EC%A0%81%20%EB%8F%99%ED%95%99&sch_rsch_fld_no=">Link  
