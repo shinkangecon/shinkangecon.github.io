@@ -6,7 +6,7 @@ Email: shinkang@kipf.re.kr or shinkangecon@gmail.com
 
 Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
-### [Curriculum Vitae (PDF, Updated in Nov. 2024)](CV_ShinHyuck Kang.pdf)
+### [Curriculum Vitae (PDF, Updated in Mar. 2025)](CV_ShinHyuck Kang.pdf)
 
 
  ### <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io" target="_blank"> 2022 KLI Fertility and Labor Forum (Organizing Forum)
@@ -82,7 +82,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
   <font color="blue"> Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
  
 ### Working Paper in Korean
-  <font color="blue"> 연령 간 대체탄력성 추정에 관한 연구(한국경제의 분석 패널 수정작업 중)</font><br> 
+  
  
 ### Policy Reports (in Korean)
    <font color="blue"> 재정승수효과 추정에 관한 연구: 시군구 단위 분석을 중심으로 (Working Report)</font> with <a href="https://hwanoonglee.com/" target="_blank">이환웅</a>
@@ -162,6 +162,8 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <br>
 
 ### Publications in Korean
+  <summary markdown="span"><font color="blue">Elasticity of Substitution between Age Groups in South Korea (연령 간 대체탄력성 추정에 관한 연구)</font><br> 
+ <font color="black"> <b><i> (Forthcoming) Journal of Korean Economic Analysis (한국경제의 분석) </i></b></font></summary>
 
   <summary markdown="span"><font color="blue">Empirical Investigation of Wage – Price Spiral using long-time series wage data (한국 장기 임금 자료를 활용한 임금 – 물가 악순환(Wage – Price Spiral) 분석)</font><br> 
  <font color="black"> <b><i> 2024, The Korean Journal of Economic Studies (경제학연구), No 72(1), 141 − 173 </i></b></font></summary>
