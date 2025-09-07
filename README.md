@@ -2,7 +2,7 @@
 
 ### ShinHyuck Kang
 
-Email: shinkang@jnu.re.kr or shinkangecon@gmail.com
+Email: shinkang@jnu.ac.kr or shinkangecon@gmail.com
 
 Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
