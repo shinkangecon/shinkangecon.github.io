@@ -2,7 +2,7 @@
 
 ### ShinHyuck Kang
 
-Email: shinkang@kipf.re.kr or shinkangecon@gmail.com
+Email: shinkang@jnu.re.kr or shinkangecon@gmail.com
 
 Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
