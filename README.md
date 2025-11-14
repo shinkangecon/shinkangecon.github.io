@@ -10,6 +10,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 
 **Employment**
+
 Chonnam National University (Present: 2025 -)
 
 2025 - : Assistant Professor 
