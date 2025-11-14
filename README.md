@@ -9,7 +9,14 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 ### [Curriculum Vitae (PDF, Updated in Sep. 2025)](CV_Shin.pdf)
 
 
- ### <a href="https://github.com/shinkangecon/kli_fertilityforum.github.io" target="_blank"> 2022 KLI Fertility and Labor Forum (Organizing Forum)
+**Employment**
+Chonnam National University (Present: 2025 -)
+2025 - : Assistant Professor 
+Korea Institute of Public Finance (2024 - 2025)
+2025: Fellow & Director of Center for Fiscal Projection 
+Korea Labor Institute (2019 - 2024)\\
+ 2023 -  : Research Fellow & Director of Center for Labor Trends Analysis
+ 2019 - 2023: Associate Research Fellow	
 
 <br>
 
