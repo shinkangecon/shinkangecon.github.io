@@ -14,7 +14,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <br>
 
 ### Working Papers
- <summary markdown="span"><font color="blue"> Tax Incentives and Large Firms’ Contributions to the Cooperation Fund: Evidence from South Korea</font> with <a href="[https://hwanoonglee.com/](https://sites.google.com/view/hoyongjung/home)" target="_blank">Hoyong Jung</a> and Donghee Lee
+ <summary markdown="span"><font color="blue"> Tax Incentives and Large Firms’ Contributions to the Cooperation Fund: Evidence from South Korea</font> with <a href="https://sites.google.com/view/hoyongjung/home" target="_blank">Hoyong Jung</a> and Donghee Lee
   
   <font color="black">Reject & Resubmit, <b><i>International Tax and Public Finance</i></b></font></summary><br>
 
