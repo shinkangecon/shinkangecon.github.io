@@ -10,6 +10,7 @@ Field of Interest: Macroeconomics, Labor Economics, Public Finance
 
 
 **Previous Employment**
+
 Korea Institute of Public Finance (2024 - 2025)
 
 Korea Labor Institute (2019 - 2024)
