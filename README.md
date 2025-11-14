@@ -14,8 +14,9 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 <br>
 
 ### Working Papers
-<font color="blue"> Tax Incentives and Large Firms’ Contributions to the Cooperation Fund: Evidence from South Korea</font> with <a href="[https://hwanoonglee.com/](https://sites.google.com/view/hoyongjung/home)" target="_blank">Hoyong Jung</a> and Donghee Lee
-  <font color="black">Reject & Resubmit, <b><i>International Tax and Public Finance</i></b></font>
+ <summary markdown="span"><font color="blue"> Tax Incentives and Large Firms’ Contributions to the Cooperation Fund: Evidence from South Korea</font> with <a href="[https://hwanoonglee.com/](https://sites.google.com/view/hoyongjung/home)" target="_blank">Hoyong Jung</a> and Donghee Lee
+  
+  <font color="black">Reject & Resubmit, <b><i>International Tax and Public Finance</i></b></font></summary>
 
 
 <details>
@@ -80,7 +81,7 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 ### Work in Progress
   <font color="blue"> Regional and Aggregate Fiscal Multipliers in Korea</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a>  
-  <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font>    
+  <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font></a>    
   <font color="blue"> Functional Analysis of Government Spending</font> with <a href="https://econ-seunghee.github.io/" target="_blank">Seunghee Lee</a>
   <font color="blue"> The Aggregate and Regional Effects of Minimum Wage Changes</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a> and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a>
   <font color="blue"> Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
