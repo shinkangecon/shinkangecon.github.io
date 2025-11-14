@@ -11,11 +11,17 @@ Field of Interest: Macroeconomics, Labor Economics, Quantitative Economics
 
 **Employment**
 Chonnam National University (Present: 2025 -)
+
 2025 - : Assistant Professor 
+
 Korea Institute of Public Finance (2024 - 2025)
+
 2025: Fellow & Director of Center for Fiscal Projection 
-Korea Labor Institute (2019 - 2024)\\
+
+Korea Labor Institute (2019 - 2024)
+
  2023 -  : Research Fellow & Director of Center for Labor Trends Analysis
+ 
  2019 - 2023: Associate Research Fellow	
 
 <br>
