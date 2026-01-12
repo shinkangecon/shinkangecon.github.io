@@ -83,12 +83,12 @@ Korea Labor Institute (2019 - 2024)
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680434">SSRN Working Paper
  <br> 
 
-### Work in Progress
-  <font color="blue"> Regional and Aggregate Fiscal Multipliers in Korea</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a>  
+### Work in Progress  
+  <font color="blue"> Sources of Mismatch Unemployment in Korea</a>  
+  <font color="blue"> Regional and Aggregate Fiscal Multipliers in Korea</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a>  
   <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font><br>  
-  <font color="blue"> Functional Analysis of Government Spending</font> with <a href="https://econ-seunghee.github.io/" target="_blank">Seunghee Lee</a>
+  <font color="blue"> Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io/" target="_blank">Seunghee Lee</a>
   <font color="blue"> The Aggregate and Regional Effects of Minimum Wage Changes</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a> and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a>
-  <font color="blue"> Fiscal Policy and Labor Market Mismatch over the Life Cycle</font><br>
  
 ### Working Paper in Korean
   
