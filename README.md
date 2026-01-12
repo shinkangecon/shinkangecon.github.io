@@ -85,10 +85,10 @@ Korea Labor Institute (2019 - 2024)
 
 ### Work in Progress  
   <font color="blue"> Sources of Mismatch Unemployment in Korea</font><br> 
-  <font color="blue"> Regional and Aggregate Fiscal Multipliers in Korea</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a>  
+  <font color="blue"> Regional and Aggregate Fiscal Multipliers in Korea</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a><br> 
   <font color="blue"> Human Capital over the Life-Cycle: Ben-Porath AND Learning By Doing under Search Frictions</font><br>  
-  <font color="blue"> Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io/" target="_blank">Seunghee Lee</a>
-  <font color="blue"> The Aggregate and Regional Effects of Minimum Wage Changes</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a> and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a>
+  <font color="blue"> Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io/" target="_blank">Seunghee Lee</a><br>
+  <font color="blue"> The Aggregate and Regional Effects of Minimum Wage Changes</font> with <a href="https://hwanoonglee.com/" target="_blank">Hwanoong Lee</a> and <a href="https://sites.google.com/view/joonseokoh/" target="_blank">Joonseok Oh</a><br>
  
 ### Working Paper in Korean
   
