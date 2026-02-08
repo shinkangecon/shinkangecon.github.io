@@ -18,10 +18,6 @@ Korea Labor Institute (2019 - 2024)
 <br>
 
 ### Working Papers
- <summary markdown="span"><font color="blue"> Tax Incentives and Large Firms’ Contributions to the Cooperation Fund: Evidence from South Korea</font> with <a href="https://sites.google.com/view/hoyongjung/home" target="_blank">Hoyong Jung</a> and Donghee Lee
-  
-  <font color="black">Minor Revision (2nd Round), <b><i>International Tax and Public Finance</i></b></font></summary><br>
-
 
 <details>
   <summary markdown="span"><font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font>
@@ -66,7 +62,10 @@ Korea Labor Institute (2019 - 2024)
   <br>
 
 ### Publications
-
+ <summary markdown="span"><font color="blue"> Tax Incentives and Large Firms’ Contributions to the Cooperation Fund: Evidence from South Korea</font> with <a href="https://sites.google.com/view/hoyongjung/home" target="_blank">Hoyong Jung</a> and Donghee Lee
+  
+  <font color="black">International Tax and Public Finance (Forthcoming)</i></b></font></summary><br>
+  
 <details>
   <summary markdown="span"><font color="blue">Endogenous Uncertainty and Monetary Policy</font> 
     
