@@ -65,8 +65,6 @@ Korea Labor Institute (2019 - 2024)
  <summary markdown="span"><font color="blue"> Tax Incentives and Large Firms’ Contributions to the Cooperation Fund: Evidence from South Korea</font> with <a href="https://sites.google.com/view/hoyongjung/home" target="_blank">Hoyong Jung</a> and Donghee Lee
   
   <font color="black"><b>International Tax and Public Finance (Forthcoming)</b></font></summary><br>
-
-   </details>
 <a href="https://link.springer.com/article/10.1007/s10797-026-09958-4">Journal Link (Online Publish)
  <br> 
   
