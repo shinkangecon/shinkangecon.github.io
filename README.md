@@ -19,6 +19,31 @@ Korea Labor Institute (2019 - 2024)
 ### Working Papers
 
 <details>
+  <summary markdown="span"><font color="blue">Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io" target="_blank">Seunghee Lee</a>
+
+  <font color="black">Draft will come soon</font></summary>
+
+  | **Abstract** |
+  |:---|
+  | This paper investigates the distributional and aggregate consequences of fiscal expansions—specifically, who pays for them. Using a functional vector autoregression (fVAR) model with novel South Korean data, we find that a government spending shock disproportionately raises average income tax rates for higher-income households, while generating larger income and consumption gains for lower-income households. Household-head employment, however, shows no significant distributional response. Despite these pronounced micro-level dynamics, the aggregate fiscal multiplier remains robustly stable. It changes by merely 0.5\% in a counterfactual economy with 50\% larger income variance, and is entirely unresponsive to greater tax rate variance or the omission of cross-sectional information. Ultimately, our empirical findings challenge standard heterogeneous-agent New Keynesian (HANK) models, which predict that greater tax progressivity or inequality should substantially amplify the fiscal multiplier. |
+
+</details>
+<br>
+
+<details>
+  <summary markdown="span"><font color="blue">Distributional-Aggregate Feedback in the Macroeconomic Effects of National Minimum Wage Shocks</font>
+
+  <font color="black">Working Paper</font></summary>
+
+  | **Abstract** |
+  |:---|
+  | This paper estimates the distributional and macroeconomic effects of minimum wage shocks in Korea using a functional vector autoregression (fVAR) model. I find that a positive minimum wage shock reduces household income and the employment rates of household heads, with the most pronounced declines at the bottom of the distribution. Because the income contraction driven by severe job losses is disproportionately concentrated among vulnerable households, relative inequality worsens, leading to a significant increase in the Gini index. Departing from the existing fVAR literature, I demonstrate that incorporating cross-sectional information is quantitatively crucial for estimating aggregate effects. Specifically, the negative aggregate employment response is primarily driven by the endogenous responses of low-income households; ignoring these distributional feedbacks within a standard VAR framework renders the aggregate employment decline statistically insignificant and masks the true inflationary pressures. These findings suggest that the minimum wage may be an inefficient policy tool for correcting labor market frictions. |
+
+</details>
+[Paper (pdf)](MW_fVAR_ver1.pdf)
+<br>
+
+<details>
   <summary markdown="span"><font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font>
   
   <font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font></summary>
