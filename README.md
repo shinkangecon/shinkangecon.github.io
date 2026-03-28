@@ -40,7 +40,7 @@ Korea Labor Institute (2019 - 2024)
   | This paper estimates the distributional and macroeconomic effects of minimum wage shocks in Korea using a functional vector autoregression (fVAR) model. I find that a positive minimum wage shock reduces household income and the employment rates of household heads, with the most pronounced declines at the bottom of the distribution. Because the income contraction driven by severe job losses is disproportionately concentrated among vulnerable households, relative inequality worsens, leading to a significant increase in the Gini index. Departing from the existing fVAR literature, I demonstrate that incorporating cross-sectional information is quantitatively crucial for estimating aggregate effects. Specifically, the negative aggregate employment response is primarily driven by the endogenous responses of low-income households; ignoring these distributional feedbacks within a standard VAR framework renders the aggregate employment decline statistically insignificant and masks the true inflationary pressures. These findings suggest that the minimum wage may be an inefficient policy tool for correcting labor market frictions. |
 
 </details>
-[Paper (pdf)](MW_fVAR_ver1.pdf)
+[Paper (pdf)](MW_fVAR_ver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6363698">SSRN Working Paper</a>
 <br>
 
 <details>
