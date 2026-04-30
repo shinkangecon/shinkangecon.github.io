@@ -19,6 +19,18 @@ Korea Labor Institute (2019 - 2024)
 ### Working Papers
 
 <details>
+  <summary markdown="span"><font color="blue">Marriage Formation, Intra-Household Bargaining, and Tax Unit Reform</font> with <a href="https://sites.google.com/view/jiwoongmoon/home?authuser=0" target="_blank">Ji-Woong Moon</a>
+
+  <font color="black">Draft will come soon</font></summary>
+
+  | **Abstract** |
+  |:---|
+  | This paper examines how endogenous bargaining in the marriage market shapes the effects of a shift from individual- to household-based income taxation on marriage formation and intra-household allocations. We build and calibrate a static collective household model with marriage-market search frictions, endogenous bargaining weights, home production, and labor supply on both the extensive and intensive margins. Applied to Korea, we find that a tax-unit reform has limited effects on marriage. Without revenue neutrality, the reform modestly increases marriage formation but sharply reduces married women's labor force participation. Under revenue neutrality, the marriage rate falls and the average marginal tax rate nearly doubles. A dynamic extension shows that marriage remains flat or declines during the transition, while married women's labor force participation falls persistently. The transition path depends critically on commitment: fixed bargaining weights imply gradual adjustment through cohort turnover, whereas flexible weights generate an immediate drop. Empirical cross-elasticity estimates favor the fixed-weight case. Overall, tax-unit reform aimed at supporting family formation is unlikely to promote marriage if bargaining weights are rigid. |
+
+</details>
+<br>
+
+<details>
   <summary markdown="span"><font color="blue">Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io" target="_blank">Seunghee Lee</a>
 
   <font color="black">Draft will come soon</font></summary>
