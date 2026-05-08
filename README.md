@@ -28,7 +28,7 @@ Korea Labor Institute (2019 - 2024)
   | This paper studies how a shift from individual- to household-based income taxation affects marriage formation and female labor supply. We develop a collective household model featuring marriage-market search frictions, endogenous bargaining weights, and labor supply on both the extensive and intensive margins. Calibrated to Korean data, we find that introducing a French-style family quotient creates a sharp trade-off: marriage increases modestly, but female labor force participation and tax revenue decline substantially. Restoring revenue requires nearly doubling the marginal tax rate; at that point, the marriage rate falls below the benchmark, and female labor force participation declines even further. A dynamic extension confirms these conclusions along the transition path, while the speed of female labor-force-participation adjustment depends on bargaining-weight adjustments among existing married households. As a suggestive diagnostic, we compare model-implied and empirical spousal labor-supply elasticity, which are more consistent with rigid than fully flexible bargaining-weight adjustment. Overall, introducing household-based income taxation is unlikely to promote marriage. |
 
 </details>
-[Paper (pdf)](Family_Friendly_Taxation.pdf) </a>
+[Paper (pdf)](Family_Friendly_Taxation.pdf)
 <br>
 
 <details>
