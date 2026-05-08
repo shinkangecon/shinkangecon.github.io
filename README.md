@@ -21,7 +21,7 @@ Korea Labor Institute (2019 - 2024)
 <details>
   <summary markdown="span"><font color="blue">Marriage Formation, Intra-Household Bargaining, and Tax Unit Reform</font> with <a href="https://sites.google.com/view/jiwoongmoon/home?authuser=0" target="_blank">Ji-Woong Moon</a>
 
-  <font color="black">Draft will come soon</font></summary>
+  <font color="black">Working Paper</font></summary>
 
   | **Abstract** |
   |:---|
