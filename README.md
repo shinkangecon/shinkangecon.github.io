@@ -19,6 +19,19 @@ Korea Labor Institute (2019 - 2024)
 ### Working Papers
 
 <details>
+  <summary markdown="span"><font color="blue">School Assignment and Labor-Market Skill Formation</font> 
+
+  <font color="black">Working Paper</font></summary>
+
+  | **Abstract** |
+  |:---|
+  | This paper studies how post-school skill formation in the labor market shapes optimal student assignment in schools. In a simple dynamic assignment model, positive assortative matching in schools is not necessarily efficient when worker skills remain fixed after schooling, and this result can persist when skills evolve autonomously. By contrast, when worker skill evolves complementarily with firm productivity, positive assortative matching in schools can be optimal under plausible conditions. The results show that optimal education policy depends not only on peer complementarities within schools, but also on worker--firm complementarities in subsequent skill formation. |
+
+</details>
+[Paper (pdf)](School Assignment and Labor-Market Skill Formation.pdf)
+<br>
+
+<details>
   <summary markdown="span"><font color="blue">Marriage Formation, Intra-Household Bargaining, and Tax Unit Reform</font> with <a href="https://sites.google.com/view/jiwoongmoon/home?authuser=0" target="_blank">Ji-Woong Moon</a>
 
   <font color="black">Working Paper</font></summary>
