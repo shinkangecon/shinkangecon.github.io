@@ -21,7 +21,7 @@ Korea Labor Institute (2019 - 2024)
 <details>
   <summary markdown="span"><font color="blue">School Assignment and Labor-Market Skill Formation</font> 
 
-  <font color="black">Working Paper</font></summary>
+  <font color="black">Revise & Resubmit, <b><i>Applied Economic Letters</i></b></font></summary>
 
   | **Abstract** |
   |:---|
