@@ -63,17 +63,10 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](MW_fVAR_ver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6363698">SSRN Working Paper</a>
 <br>
 
-<details>
-  <summary markdown="span"><font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font>
+<font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font><br>
   
-  <font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font></summary>
+  <font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font>
     
-  | **Abstract** |
-  |:---|
-  | I explore the effects of policies that affect relative prices between regular and non-regular workers in South Korea. To this end, I first estimate the constant elasticity of substitution (CES) production function using the Korean workplace level panel data. The implied elasticity of substitution implies that regular and non-regular workers are substitutes. Based on the empirical estimate, I implement policy experiments and counter-factual analysis using the calibrated heterogeneous firm model. The model is rich as it calibrates both firing and hiring costs, which are crucial factors of determining relative prices between regular and non-regular workers. Policy experiments imply that it is crucial to consider the degree of substitution and labor adjustment costs. |
-
-
-
 <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
     
