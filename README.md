@@ -61,8 +61,16 @@ Korea Labor Institute (2019 - 2024)
 <br>
 
 <font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font><br>
-<font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font>
+  <font color="black">Working Paper (Substantially Revised)</font></summary>
+
+  | **Abstract** |
+  |:---|
+  | This paper estimates the substitutability of regular and non-regular workers in South Korea and quantifies employer-side contribution-rate counterfactuals. Using establishment-level Workplace Panel Survey data, I estimate the relative input-demand equation implied by a CES labor aggregate. The preferred point estimate, \(\hat{\rho}=0.3100\), implies an elasticity of substitution of \(\hat{\sigma}=1.4493\) under the maintained static CES interpretation. I impose this FOC-based estimate as an external empirical discipline in a calibrated heterogeneous-firm model with dynamic regular employment, flexible non-regular employment, endogenous wages, and adjustment costs for regular jobs. A 10 percent proportional increase in the non-regular contribution rate reduces non-regular employment by 1.86 percent, total employment by 0.29 percent, and output by 0.18 percent. A 10 percent proportional reduction in the regular contribution rate raises total employment by 0.45 percent and output by 0.27 percent. The counterfactuals allow substitution, wage adjustment, and regular-employment frictions to operate jointly.|
+
+</details>
+[Paper (pdf)](RegNonReg.pdf) 
 <br>
+
 
 <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
@@ -77,7 +85,15 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](PriceSearchBCver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175">SSRN Working Paper</a>
 <br>
 
-<font color="blue">What can explain the hump-shaped job search intensities over the life-cycle? (Substantially Revised)</font>
+<font color="blue">What can explain the hump-shaped job search intensities over the life-cycle? </font>
+  <font color="black">Working Paper (Substantially Revised)</font></summary>
+
+  | **Abstract** |
+  |:---|
+  | This paper explores the puzzling hump-shaped job-search profile in U.S. data, which the standard life-cycle incomplete-markets model fails to explain. Using the ATUS, NJS, and SCE, I document the profile and show that search effort declines with measured uncertainty and wealth. I develop a life-cycle incomplete-markets model combining dispersed worker–occupation matches, Bayesian learning, an age-dependent value of non-employment, wealth accumulation, and Epstein–Zin preferences. The calibrated model jointly matches search, offer arrival, acceptance, reservation wages, and wealth. The high value of non-employment accounts for much of young workers’ low search, while wealth accumulation and the shrinking career horizon reduce search later in life. Learning mainly governs offer selectivity: fully revealing match quality preserves the hump, whereas eliminating match dispersion substantially flattens it.|
+
+</details>
+[Paper (pdf)](JSProfile_Revised.pdf) 
 <br>
 
 ### Publications
