@@ -49,12 +49,6 @@ Korea Labor Institute (2019 - 2024)
 
   <font color="black">Draft will come soon</font></summary>
 
-  | **Abstract** |
-  |:---|
-  | This paper investigates the distributional and aggregate consequences of fiscal expansions—specifically, who pays for them. Using a functional vector autoregression (fVAR) model with novel South Korean data, we find that a government spending shock disproportionately raises average income tax rates for higher-income households, while generating larger income and consumption gains for lower-income households. Household-head employment, however, shows no significant distributional response. Despite these pronounced micro-level dynamics, the aggregate fiscal multiplier remains robustly stable. It changes by merely 0.5\% in a counterfactual economy with 50\% larger income variance, and is entirely unresponsive to greater tax rate variance or the omission of cross-sectional information. Ultimately, our empirical findings challenge standard heterogeneous-agent New Keynesian (HANK) models, which predict that greater tax progressivity or inequality should substantially amplify the fiscal multiplier. |
-
-</details>
-<br>
 
 <details>
   <summary markdown="span"><font color="blue">Distributional-Aggregate Feedback in the Macroeconomic Effects of National Minimum Wage Shocks</font>
@@ -78,9 +72,7 @@ Korea Labor Institute (2019 - 2024)
   |:---|
   | I explore the effects of policies that affect relative prices between regular and non-regular workers in South Korea. To this end, I first estimate the constant elasticity of substitution (CES) production function using the Korean workplace level panel data. The implied elasticity of substitution implies that regular and non-regular workers are substitutes. Based on the empirical estimate, I implement policy experiments and counter-factual analysis using the calibrated heterogeneous firm model. The model is rich as it calibrates both firing and hiring costs, which are crucial factors of determining relative prices between regular and non-regular workers. Policy experiments imply that it is crucial to consider the degree of substitution and labor adjustment costs. |
 
-</details>
-[Paper (pdf)](RegNonReg_Substitutes_ver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4197008">SSRN Working Paper</a>
-<br>
+
 
 <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
@@ -97,16 +89,6 @@ Korea Labor Institute (2019 - 2024)
 
 <details>
   <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>
-    
-  <font color="black">Revise & Resubmit, <b><i>Macroeconomic Dynamics</i></b></font></summary>
-    
-  | **Abstract** |
-  |:---|
-  | This paper explores the puzzling inverted U-shape job search profile for U.S. data. It is well established that the standard life-cycle incomplete market model is incapable of explaining this phenomenon because of the wealth effect. I argue two channels to explain the puzzle: (i) the resolution of perceived risks through Bayesian learning, and (ii) wealth accumulation in the incomplete market over the life-cycle. To support this, I empirically and analytically show that unemployed job seekers devote less efforts to find jobs under higher uncertainty and wealth. |
-
-</details>
-[Paper (pdf)](JobSearchProfile.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3766000">SSRN Working Paper</a>
-<br>
 
 ### Publications
 
