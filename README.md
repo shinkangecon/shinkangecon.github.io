@@ -44,9 +44,7 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](Family_Friendly_Taxation.pdf)
 <br>
 
-<font color="blue">Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io" target="_blank">Seunghee Lee</a><br>
-<font color="black">Draft will come soon</font>
-<br>
+<font color="blue">Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io" target="_blank">Seunghee Lee</a><br><font color="black">Draft will come soon</font>
 <br>
 
 <details>
