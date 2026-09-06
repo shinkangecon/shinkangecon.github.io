@@ -60,7 +60,9 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](MW_fVAR_ver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6363698">SSRN Working Paper</a>
 <br>
 
-<font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font><br>
+<details>
+  <summary markdown="span"><font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font>
+    
   <font color="black">Working Paper (Substantially Revised)</font></summary>
 
   | **Abstract** |
@@ -85,7 +87,9 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](PriceSearchBCver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175">SSRN Working Paper</a>
 <br>
 
-<font color="blue">What can explain the hump-shaped job search intensities over the life-cycle? </font>
+<details>
+  <summary markdown="span">What can explain the hump-shaped job search intensities over the life-cycle? </font>
+    
   <font color="black">Working Paper (Substantially Revised)</font></summary>
 
   | **Abstract** |
