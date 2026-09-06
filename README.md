@@ -6,7 +6,7 @@ Email: shinkang@jnu.ac.kr or shinkangecon@gmail.com
 
 Field of Interest: Macroeconomics, Labor Economics, Public Finance
 
-### [Curriculum Vitae (PDF, Updated in June 2026)](CV_Shin.pdf)
+### [Curriculum Vitae (PDF, Updated in September 2026)](CV_Shin.pdf)
 
 **Previous Employment**
 
