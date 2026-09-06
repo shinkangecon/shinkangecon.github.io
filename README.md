@@ -63,7 +63,6 @@ Korea Labor Institute (2019 - 2024)
 <font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font><br>
 <font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font>
 <br>
-<br>
 
 <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
@@ -78,7 +77,7 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](PriceSearchBCver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175">SSRN Working Paper</a>
 <br>
 
-<font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>
+<font color="blue">What can explain the hump-shaped job search intensities over the life-cycle? (Substantially Revised)</font>
 <br>
 
 ### Publications
