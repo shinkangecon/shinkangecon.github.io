@@ -44,11 +44,10 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](Family_Friendly_Taxation.pdf)
 <br>
 
-<details>
-  <summary markdown="span"><font color="blue">Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io" target="_blank">Seunghee Lee</a>
-
-  <font color="black">Draft will come soon</font></summary>
-
+<font color="blue">Who Pays for Government Spending? An Empirical Analysis of Taxes and the Income Distribution</font> with <a href="https://econ-seunghee.github.io" target="_blank">Seunghee Lee</a><br>
+<font color="black">Draft will come soon</font>
+<br>
+<br>
 
 <details>
   <summary markdown="span"><font color="blue">Distributional-Aggregate Feedback in the Macroeconomic Effects of National Minimum Wage Shocks</font>
@@ -64,9 +63,10 @@ Korea Labor Institute (2019 - 2024)
 <br>
 
 <font color="blue">Regular and Non-regular Workers Substitutability and Policy Implications in South Korea</font><br>
-  
-  <font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font>
-    
+<font color="black">Revise & Resubmit, <b><i>Korean Economic Review</i></b></font>
+<br>
+<br>
+
 <details>
   <summary markdown="span"><font color="blue">Cyclical Dynamics of Shopping: Aggregate Implications on Labor and Product Markets</font>
     
@@ -80,8 +80,8 @@ Korea Labor Institute (2019 - 2024)
 [Paper (pdf)](PriceSearchBCver1.pdf) / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3283175">SSRN Working Paper</a>
 <br>
 
-<details>
-  <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>
+<font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>
+<br>
 
 ### Publications
 
