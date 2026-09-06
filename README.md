@@ -88,7 +88,7 @@ Korea Labor Institute (2019 - 2024)
 <br>
 
 <details>
-  <summary markdown="span">What can explain the hump-shaped job search intensities over the life-cycle?</font>
+  <summary markdown="span"><font color="blue">What can explain the hump-shaped job search intensities over the life-cycle?</font>
     
   <font color="black">Working Paper (Substantially Revised)</font></summary>
 
